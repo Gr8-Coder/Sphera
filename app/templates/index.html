@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sphera CredServ Signals</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='styles.css') }}" />
+  </head>
+  <body>
+    <div class="backdrop"></div>
+    <main class="page-shell">
+      <section class="hero-panel">
+        <div class="hero-copy">
+          <p class="eyebrow">CredServ Opportunity Radar</p>
+          <h1>Sphera news signals for distributor and channel financing use cases</h1>
+          <p class="hero-text">
+            This dashboard tracks the companies from your Excel sheet, fetches relevant news
+            snippets, and tags each one with a CredServ propensity signal across the five focus areas.
+          </p>
+        </div>
+        <div class="hero-meta">
+          <div class="meta-card">
+            <span class="meta-label">Refresh schedule</span>
+            <strong>{{ refresh_schedule }}</strong>
+            <span>{{ timezone }}</span>
+          </div>
+          <div class="meta-card">
+            <span class="meta-label">Tracked sheet</span>
+            <strong id="tracked-company-count">{{ metrics.company_count }} companies</strong>
+            <span>{{ company_sheet_path }}</span>
+          </div>
+          <div class="meta-card live-card">
+            <span class="meta-label">Live portal</span>
+            <strong id="live-connection-label">Connecting...</strong>
+            <span id="live-connection-subtitle">
+              {% if status_payload.live_refresh_enabled %}
+                Rotating checks every {{ live_refresh_interval_minutes }} min.
+              {% else %}
+                Live background checks are disabled.
+              {% endif %}
+            </span>
+          </div>
+          <div class="meta-card status-card" data-running="{{ 'true' if status_payload.running else 'false' }}">
+            <span class="meta-label">Refresh status</span>
+            <strong id="refresh-status-label">
+              {% if status_payload.running %}Refresh running{% else %}Idle{% endif %}
+            </strong>
+            <span id="refresh-status-subtitle">
+              {% if metrics.last_run %}
+                Last completed: {{ metrics.last_run.completed_at_display }}
+              {% else %}
+                No refresh has completed yet.
+              {% endif %}
+            </span>
+          </div>
+        </div>
+      </section>
+
+      <section class="metrics-grid">
+        <article class="metric-card">
+          <span>Tracked companies</span>
+          <strong id="metric-company-count">{{ metrics.company_count }}</strong>
+        </article>
+        <article class="metric-card">
+          <span>Matched snippets</span>
+          <strong id="metric-news-count">{{ metrics.news_count }}</strong>
+        </article>
+        <article class="metric-card positive">
+          <span>Positive propensity</span>
+          <strong id="metric-positive-count">{{ metrics.positive_count }}</strong>
+        </article>
+        <article class="metric-card negative">
+          <span>Negative propensity</span>
+          <strong id="metric-negative-count">{{ metrics.negative_count }}</strong>
+        </article>
+      </section>
+
+      <section class="toolbar-panel">
+        <form class="filters" method="get" action="/">
+          <label>
+            <span>Company</span>
+            <select name="company">
+              <option value="">All companies</option>
+              {% for company in companies %}
+                <option value="{{ company.name }}" {% if company.name == selected_company %}selected{% endif %}>
+                  {{ company.name }}
+                </option>
+              {% endfor %}
+            </select>
+          </label>
+          <label>
+            <span>Theme</span>
+            <select name="theme">
+              <option value="">All focus areas</option>
+              {% for theme in theme_options %}
+                <option value="{{ theme.slug }}" {% if theme.slug == selected_theme %}selected{% endif %}>
+                  {{ theme.label }}
+                </option>
+              {% endfor %}
+            </select>
+          </label>
+          <label>
+            <span>Signal</span>
+            <select name="signal">
+              <option value="">Positive + Negative</option>
+              <option value="positive" {% if selected_signal == 'positive' %}selected{% endif %}>Positive</option>
+              <option value="negative" {% if selected_signal == 'negative' %}selected{% endif %}>Negative</option>
+            </select>
+          </label>
+          <button type="submit" class="button button-ghost">Apply filters</button>
+        </form>
+        <div class="actions">
+          <button type="button" id="refresh-all-button" class="button">Refresh all companies</button>
+          <button type="button" id="refresh-company-button" class="button button-ghost">
+            Refresh selected company
+          </button>
+        </div>
+      </section>
+
+      <section class="content-grid">
+        <aside class="company-rail">
+          <div class="rail-header">
+            <h2>Company watchlist</h2>
+            <span id="company-rail-count">{{ companies|length }} loaded</span>
+          </div>
+          <div class="company-list" id="company-list">
+            {% for company in companies %}
+              <a
+                class="company-row {% if company.name == selected_company %}active{% endif %}"
+                href="/?company={{ company.name }}"
+              >
+                <div>
+                  <strong>{{ company.name }}</strong>
+                  <span>{{ company.headquarters or 'Headquarters not listed' }}</span>
+                </div>
+                <div class="company-stats">
+                  <span>{{ company.snippet_count }} snippets</span>
+                  <span>{{ company.latest_news_at_display }}</span>
+                </div>
+              </a>
+            {% endfor %}
+          </div>
+        </aside>
+
+        <section class="feed-panel">
+          <div class="feed-header">
+            <div>
+              <h2>News feed</h2>
+              <p>
+                Positive and negative signals are scored for CredServ propensity, not for stock sentiment.
+              </p>
+            </div>
+            <span class="db-path">{{ database_path }}</span>
+          </div>
+
+          <div id="news-feed-root">
+            {% if news_items %}
+              <div class="news-feed">
+                {% for item in news_items %}
+                  <article class="news-card">
+                    <div class="news-topline">
+                      <span class="company-chip">{{ item.company_name }}</span>
+                      <span class="theme-chip">{{ item.theme_label }}</span>
+                      <span class="signal-chip signal-{{ item.signal }}">{{ item.signal }}</span>
+                    </div>
+                    <h3>
+                      <a href="{{ item.source_url }}" target="_blank" rel="noreferrer">
+                        {{ item.title }}
+                      </a>
+                    </h3>
+                    <p class="snippet">{{ item.snippet }}</p>
+                    <div class="news-footer">
+                      <span>{{ item.source_name }}</span>
+                      <span>{{ item.published_at_display }}</span>
+                      <span>Confidence {{ '%.0f'|format(item.confidence * 100) }}%</span>
+                    </div>
+                    <p class="reason">{{ item.signal_reason }}</p>
+                  </article>
+                {% endfor %}
+              </div>
+            {% else %}
+              <div class="empty-state">
+                <h3>No snippets yet</h3>
+                <p>
+                  Run a refresh to populate the feed, or change the filters if you are looking for a different
+                  company or focus area.
+                </p>
+              </div>
+            {% endif %}
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <script>
+      const selectedCompany = {{ selected_company|tojson }};
+      const selectedTheme = {{ selected_theme|tojson }};
+      const selectedSignal = {{ selected_signal|tojson }};
+      const selectedLimit = {{ limit|tojson }};
+      const refreshAllButton = document.getElementById("refresh-all-button");
+      const refreshCompanyButton = document.getElementById("refresh-company-button");
+      const statusLabel = document.getElementById("refresh-status-label");
+      const statusSubtitle = document.getElementById("refresh-status-subtitle");
+      const liveLabel = document.getElementById("live-connection-label");
+      const liveSubtitle = document.getElementById("live-connection-subtitle");
+      const trackedCompanyCount = document.getElementById("tracked-company-count");
+      const companyRailCount = document.getElementById("company-rail-count");
+      const companyList = document.getElementById("company-list");
+      const newsFeedRoot = document.getElementById("news-feed-root");
+      let syncInFlight = false;
+
+      function escapeHtml(value) {
+        return String(value ?? "")
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/\"/g, "&quot;")
+          .replace(/'/g, "&#39;");
+      }
+
+      function queryParamsWithCurrentFilters() {
+        const params = new URLSearchParams();
+        if (selectedCompany) params.set("company", selectedCompany);
+        if (selectedTheme) params.set("theme", selectedTheme);
+        if (selectedSignal) params.set("signal", selectedSignal);
+        params.set("limit", selectedLimit);
+        return params;
+      }
+
+      function buildCompanyHref(companyName) {
+        const params = queryParamsWithCurrentFilters();
+        if (companyName) {
+          params.set("company", companyName);
+        } else {
+          params.delete("company");
+        }
+        return `/?${params.toString()}`;
+      }
+
+      function renderMetrics(metrics) {
+        document.getElementById("metric-company-count").textContent = metrics.company_count;
+        document.getElementById("metric-news-count").textContent = metrics.news_count;
+        document.getElementById("metric-positive-count").textContent = metrics.positive_count;
+        document.getElementById("metric-negative-count").textContent = metrics.negative_count;
+        trackedCompanyCount.textContent = `${metrics.company_count} companies`;
+      }
+
+      function renderCompanies(companies) {
+        companyRailCount.textContent = `${companies.length} loaded`;
+        companyList.innerHTML = companies.map((company) => {
+          const activeClass = company.name === selectedCompany ? "active" : "";
+          const headquarters = company.headquarters || "Headquarters not listed";
+          return `
+            <a class="company-row ${activeClass}" href="${buildCompanyHref(company.name)}">
+              <div>
+                <strong>${escapeHtml(company.name)}</strong>
+                <span>${escapeHtml(headquarters)}</span>
+              </div>
+              <div class="company-stats">
+                <span>${escapeHtml(company.snippet_count)} snippets</span>
+                <span>${escapeHtml(company.latest_news_at_display)}</span>
+              </div>
+            </a>
+          `;
+        }).join("");
+      }
+
+      function renderNewsItems(items) {
+        if (!items.length) {
+          newsFeedRoot.innerHTML = `
+            <div class="empty-state">
+              <h3>No snippets yet</h3>
+              <p>
+                Run a refresh to populate the feed, or change the filters if you are looking for a different
+                company or focus area.
+              </p>
+            </div>
+          `;
+          return;
+        }
+
+        newsFeedRoot.innerHTML = `
+          <div class="news-feed">
+            ${items.map((item) => `
+              <article class="news-card">
+                <div class="news-topline">
+                  <span class="company-chip">${escapeHtml(item.company_name)}</span>
+                  <span class="theme-chip">${escapeHtml(item.theme_label)}</span>
+                  <span class="signal-chip signal-${escapeHtml(item.signal)}">${escapeHtml(item.signal)}</span>
+                </div>
+                <h3>
+                  <a href="${escapeHtml(item.source_url)}" target="_blank" rel="noreferrer">
+                    ${escapeHtml(item.title)}
+                  </a>
+                </h3>
+                <p class="snippet">${escapeHtml(item.snippet)}</p>
+                <div class="news-footer">
+                  <span>${escapeHtml(item.source_name)}</span>
+                  <span>${escapeHtml(item.published_at_display)}</span>
+                  <span>Confidence ${Math.round(item.confidence * 100)}%</span>
+                </div>
+                <p class="reason">${escapeHtml(item.signal_reason)}</p>
+              </article>
+            `).join("")}
+          </div>
+        `;
+      }
+
+      function renderStatus(statusPayload, metrics) {
+        statusLabel.textContent = statusPayload.running ? "Refresh running" : "Idle";
+        const summary = statusPayload.latest_refresh_summary;
+        if (statusPayload.running) {
+          statusSubtitle.textContent = "A refresh is running. New snippets will appear automatically.";
+          return;
+        }
+        if (summary) {
+          statusSubtitle.textContent =
+            `Last ${summary.trigger_source} run scanned ${summary.articles_scanned} items and stored ` +
+            `${summary.new_articles} new snippets.`;
+          return;
+        }
+        if (metrics.last_run) {
+          statusSubtitle.textContent = `Last completed: ${metrics.last_run.completed_at_display}`;
+          return;
+        }
+        statusSubtitle.textContent = "No refresh has completed yet.";
+      }
+
+      function renderLiveConnection(mode, message) {
+        liveLabel.textContent = mode;
+        liveSubtitle.textContent = message;
+      }
+
+      async function syncSnapshot() {
+        if (syncInFlight) {
+          return;
+        }
+        syncInFlight = true;
+        try {
+          const params = queryParamsWithCurrentFilters();
+          const response = await fetch(`/api/snapshot?${params.toString()}`);
+          if (!response.ok) {
+            return;
+          }
+          const snapshot = await response.json();
+          renderMetrics(snapshot.metrics);
+          renderCompanies(snapshot.companies);
+          renderNewsItems(snapshot.news_items);
+          renderStatus(snapshot.status_payload, snapshot.metrics);
+        } finally {
+          syncInFlight = false;
+        }
+      }
+
+      async function postRefresh(url) {
+        const response = await fetch(url, { method: "POST" });
+        const payload = await response.json();
+        if (!response.ok) {
+          alert(payload.detail || "Refresh could not be started.");
+          return;
+        }
+        statusLabel.textContent = "Refresh running";
+        statusSubtitle.textContent = "The job has been queued. New snippets will appear automatically.";
+      }
+
+      refreshAllButton.addEventListener("click", () => {
+        postRefresh("/api/refresh");
+      });
+
+      refreshCompanyButton.addEventListener("click", () => {
+        if (!selectedCompany) {
+          alert("Choose a company from the filter first.");
+          return;
+        }
+        postRefresh(`/api/refresh?company=${encodeURIComponent(selectedCompany)}`);
+      });
+
+      function connectLiveStream() {
+        if (!window.EventSource) {
+          renderLiveConnection(
+            "Polling mode",
+            "This browser does not support live streams, so the portal will poll for updates."
+          );
+          setInterval(syncSnapshot, 20000);
+          return;
+        }
+
+        const eventSource = new EventSource("/api/stream");
+        eventSource.addEventListener("connected", (event) => {
+          const payload = JSON.parse(event.data);
+          if (payload.live_refresh_enabled) {
+            const minutes = Math.max(1, Math.round(payload.live_refresh_interval_seconds / 60));
+            renderLiveConnection("Live connected", `Rotating checks every ${minutes} min.`);
+          } else {
+            renderLiveConnection("Live connected", "Real-time feed is on, but background live checks are disabled.");
+          }
+        });
+        eventSource.addEventListener("refresh-started", (event) => {
+          const payload = JSON.parse(event.data);
+          statusLabel.textContent = "Refresh running";
+          if (payload.company_count > 0) {
+            statusSubtitle.textContent = `Refreshing ${payload.company_count} companies now.`;
+          } else {
+            statusSubtitle.textContent = "Refreshing the full watchlist now.";
+          }
+        });
+        eventSource.addEventListener("refresh-completed", async (event) => {
+          const payload = JSON.parse(event.data);
+          await syncSnapshot();
+          if (payload.summary && payload.summary.new_articles > 0) {
+            renderLiveConnection(
+              "Live connected",
+              `Latest update added ${payload.summary.new_articles} new snippets to the portal.`
+            );
+          }
+        });
+        eventSource.onerror = () => {
+          renderLiveConnection("Reconnecting...", "The portal lost the live stream and is retrying.");
+        };
+      }
+
+      connectLiveStream();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: sphera
+    runtime: docker
+    plan: free
+    autoDeploy: true

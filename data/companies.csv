@@ -1,0 +1,982 @@
+Unnamed: 0,Company,Headquarters,CFO,Email,Turnover,AR,Dealer,DSO,Tech,Contact,AR.1,Status
+,3M India,Bengaluru,Vidya Sarathy,vidya.sarathy@mmm.com,4446.0,512.0,,42.0,SAP,,,In Progress
+,Aarti Industries,Mumbai,Chetan Gandhi,chetan.gandhi@aarti-industries.com,8200.0,1400.0,B2B,65.0,SAP,,,Locator not Present
+,ABFRL,Mumbai,Jagdish Bajaj,jagdish.bajaj@adityabirla.com,13500.0,1150.0,,31.0,"SAP, Salesforce",,,Not Applicable
+,ACC Limited,Mumbai,Vinod Bahety,vinod.bahety@adani.com,19920.0,1450.0,,26.0,SAP S/4HANA,,,Done
+,ACC Ltd,Mumbai,,investor@acclimited.com,21000.0,1100.0,12000,24.0,SAP,,,Done
+,Adani Wilmar,Ahmedabad,Shrikant Kanhere,shrikant.kanhere@adaniwilmar.in,54200.0,1850.0,,13.0,SAP,,,Locator not Present
+,ADF Foods,Mumbai,Shardul Doshi,shardul.doshi@adf-foods.com,603.6,85.0,,51.0,SAP,,,Locator not Present
+,Advance Paints,Mumbai,,info@advancepaints.com,250.0,40.0,1000,68.0,Tally,,,Locator not Present
+,Agro Tech Foods,Gurugram,K.P.N. Srinivas,kpn.srinivas@atfoods.com,1050.0,95.0,~850,38.0,SAP,,,Locator not Present
+,Aimco Pesticides,Mumbai,Ramesh Shah,ramesh.shah@aimcopesticides.com,240.0,58.0,,88.0,SAP,,,Locator not Present
+,AkzoNobel,Gurugram,Krishna,krishna.srivastava@akzonobel.com,4020.0,580.0,,52.0,SAP,,,Locator not Present
+,Alkyl Amines,Mumbai,Kanav Monga,kanav.monga@alkylamines.com,1900.0,340.0,B2B,68.0,SAP,,,Locator not Present
+,Alok Industries,Mumbai,Vinod Sureka,vinod.sureka@alokind.com,8500.0,1100.0,B2B,50.0,SAP,,,Locator not Present
+,Amara Raja Energy,Hyderabad,Y. Delli Babu,investorservices@amararaja.com,11260.0,1150.0,,37.0,SAP S/4HANA,,,In Progress
+,Amber Enterprises,Gurugram,Sudhir Goyal,sudhir.goyal@ambergrouindia.com,7200.0,1250.0,OEM,68.0,SAP,,,Locator not Present
+,Ambika Cotton,Coimbatore,Suresh Kumar,suresh.kumar@acmills.in,728.6,105.0,,53.0,SAP,,,Locator not Present
+,Ambuja Cements,Mumbai,Vinod Bahety,vinod.bahety@adani.com,42000.0,2100.0,55000,22.0,SAP,,,Done
+,Anabond Limited,Chennai,R. Venkataraman,r.venkataraman@anabond.com,450.0,110.0,,89.0,Tally / SAP,,,Locator not Present
+,Anu Products,Delhi,,,,,,,,,,Locator not Present
+,APL Apollo Tubes,Ghaziabad,Deepak Goyal,info@aplapollo.com,19800.0,1150.0,,21.0,SAP S/4HANA,,,Done
+,Apollo Pipes,Noida,Ajay Kumar Jain,ajay.kumar.jain@apollopipes.com,758.0,145.0,,72.0,SAP Business One,,,Done
+,Apple India,Gurugram,Kevan Parekh,kevan.parekh@apple.com,67000.0,5400.0,,29.0,SAP S/4HANA,,,Not Applicable
+,Aries Agro,Mumbai,Chhaya Warrier,chhaya.warrier@ariesagro.com,680.0,185.0,,99.0,SAP,,,Locator not Present
+,Aristo Bio-Tech,Vadodara,Ashok Mehta,ashok.mehta@aristobiotech.com,318.09,110.0,,126.0,Tally / SAP,,,Locator not Present
+,Arvind Fashions,Bengaluru,,investor.relations@arvindbrands.com,4620.0,540.0,,43.0,SAP S/4HANA,,,Not Applicable
+,Arvind Limited,Ahmedabad,Jayesh Shah,jayesh.shah@arvind.in,8400.0,1250.0,,54.0,SAP S/4HANA,,,Done
+,Asahi India Glass,Gurugram,Shailesh Agarwal,shailesh.agarwal@aisglass.com,4250.0,710.0,,61.0,SAP,,,Done
+,Ashirvad Pipes,Bengaluru,,info@ashirvad.com,3800.0,490.0,,47.0,SAP,,,Done
+,Asian Granito,Ahmedabad,Mehul Shah,mehul@asian-granito.com,1600.0,450.0,6000,95.0,SAP,,,Done
+,Asian Paints Ltd,Mumbai,R J Jeyamurugan,rj.jeyamurugan@asianpaints.com,38500.0,4200.0,160000,38.0,SAP S/4HANA,,,Done
+,Astec Lifesciences,Mumbai,Madhur G. Belani,madhur.g..belani@godrejastec.com,650.0,145.0,,81.0,SAP,,,Locator not Present
+,Astral Limited,Ahmedabad,Hiranand Savlani,hiranand.savlani@astraladhesives.com,5238.0,680.0,,48.0,SAP S/4HANA,,,Locator not Present
+,Asus India,Mumbai,Chang Chu Ou,chang.chu.ou@asus.com,3770.0,610.0,,59.0,SAP,,,Not Applicable
+,Atul Ltd,Valsad,Shashank Panigrahi,k_panigrahi@atul.co.in,5800.0,1050.0,B2B,65.0,SAP,,,Locator not Present
+,Avalon Technologies,Chennai,RM Subramanian,subramanian@avalon-tech.com,1100.0,220.0,OEM,72.0,SAP,,,Locator not Present
+,Axalta Coating,New Delhi,Lokender Pal Singh,lokender.singh@axalta.com,1100.0,140.0,,68.0,SAP,,,In Progress
+,Axalta Coating Systems India,Gurugram,Vinay Rajadhyaksha,vinay.rajadhyaksha@axalta.com,750.0,140.0,,68.0,SAP,,,In Progress
+,Axita Cotton,Ahmedabad,,,600.0,,,,SAP,,,On Hold
+,Bajaj Consumer,Mumbai,Dilip Maloo,dilip.maloo@bajajconsumer.com,1200.0,140.0,"~1,100",42.0,SAP,,,Not Applicable
+,Bajaj Electricals,Mumbai,E C Prasad,ec.prasad@bajajelectricals.com,6100.0,850.0,225000,58.0,Oracle,,,Not Applicable
+,Balaji Amines,Solapur,D Ram Reddy,ram.reddy@balajiamines.com,2300.0,410.0,B2B,75.0,SAP,,,Locator not Present
+,Balaji Wafers,Rajkot,Ketan Sharma,ketan.sharma@balajiwafers.com,5500.0,210.0,,14.0,SAP,,,Locator not Present
+,Basant Agro Tech,Akola,Deepak D. Bhartia,deepak.d..bhartia@basantagro.com,450.0,115.0,,93.0,Tally,,,Locator not Present
+,BASF Coatings India,Mangalore,Rajesh Kulkarni,rajesh.kulkarni@basf.com,1850.0,310.0,,61.0,SAP,,,Locator not Present
+,BASF India Ltd,Mumbai,Narendranath J. Baliga,narendranath.baliga@basf.com,1850.0,310.0,,61.0,SAP,,,Locator not Present
+,Bayer CropScience,Thane,,,6200.0,1100.0,5500,65.0,SAP,,,Done
+,Berger Paints,Kolkata,Vikash Jeet,vikash.jeet@bergerindia.com,13200.0,1750.0,55000,45.0,Oracle ERP,,,In Progress
+,Best Agrolife,New Delhi,Vikas Jain,vikas.jain@bestagrolife.com,1873.0,1120.0,,145.0,SAP S/4HANA,,,Locator not Present
+,Bhagiradha Chem.,Hyderabad,Ranjit Kumar Kilaru,ranjit.kumar.kilaru@bhagiradha.com,496.0,110.0,,81.0,Tally / SAP,,,Locator not Present
+,Bharat Rasayan,New Delhi,Kamleshwar Prasad,kamleshwar.prasad@bharatgroup.co.in,1250.0,310.0,,91.0,SAP,,,Locator not Present
+,Biba Fashion,Gurugram,Vivek Vishnoi,vivek.vishnoi@biba.in,798.0,110.0,,315.0,"SAP, Salesforce",,,Not Applicable
+,Bikaji Foods,Bikaner,Rishabh Jain,rishabh.jain@bikaji.com,2600.0,250.0,"~1,600",38.0,SAP,,,Done
+,Biostadt,Mumbai,,,,,,,,,,Locator not Present
+,Birla Corporation,Kolkata,Aditya Saraogi,aditya.saraogi@birlacorp.com,9500.0,840.0,,32.0,SAP,,,Not Applicable
+,Birla Opus,Mumbai,Rakshit Hargave,rakshit.hargave@birlaopus.com,1200.0,210.0,,64.0,SAP S/4HANA,,,On Hold
+,Blue Star,Mumbai,Nikhil Sohoni,nikhilsohoni@bluestarindia.com,10500.0,1800.0,8000,65.0,SAP,,,Done
+,Bombay Dyeing,Mumbai,Sanjive Arora,sanjive.arora@bombaydyeing.com,1850.0,310.0,,61.0,SAP,,,Done
+,Borosil Ltd,Mumbai,Anand Mittal,anand.mittal@borosil.com,1150.0,210.0,,66.0,SAP Business One,,,Done
+,Bostik India,Bengaluru,Pankaj Sharma,pankaj.sharma@bostik.com,950.0,175.0,,68.0,SAP,,,Locator not Present
+,Brenntag India,Mumbai,,,,,,,SAP,,,Locator not Present
+,Britannia Ind.,Bengaluru,N. Venkataraman,nvenkataraman@britindia.com,20000.0,500.0,"~3,800",9.0,SAP,,,Locator not Present
+,British Paints,New Delhi,,sales@britishpaints.in,950.0,140.0,6000,50.0,Oracle,,,Done
+,Butterfly Gandhimathi,Chennai,R Nagarajan,finance@butterflyindia.com,1150.0,180.0,3800,58.0,SAP,,,On Hold
+,Cantabil Retail,New Delhi,Shivendra Nigam,shivendra.nigam@cantabilshop.com,650.0,45.0,,25.0,SAP,,,Not Applicable
+,Cantabil Retail India,New Delhi,Shivendra Nigam,shivendra@cantabilinternational.com,650.0,60.0,Retail,30.0,Logic ERP,,,Not Applicable
+,Century Plyboards,Kolkata,Arun Julasaria,arun@centuryply.com,4500.0,620.0,3000,48.0,SAP,,,Done
+,Cera Sanitaryware,Ahmedabad,Vikas Kothari,vikas@cera-india.com,2100.0,320.0,4500,52.0,SAP,,,On Hold
+,Chambal Fertilisers,New Delhi,Abhay Baijal,abhay.baijal@chambal.in,24000.0,3800.0,3500,48.0,SAP,,,Locator not Present
+,Colgate-Palmolive,Mumbai,M.S. Jacob,m.s.jacob@colpal.com,5850.0,185.0,,12.0,SAP,,,Locator not Present
+,Coromandel International,Hyderabad,Jayashree Satagopan,jayashrees@coromandel.murugappa.com,26500.0,3100.0,20000,45.0,SAP,,,Locator not Present
+,Croda India,Navi Mumbai,,,,,,,,,,Locator not Present
+,Crompton Greaves,Mumbai,Kaleeswaran A,kaleeswaran.a@crompton.co.in,8500.0,950.0,12000,42.0,SAP,,,Done
+,Cropnosys,Bangalore,,,,,,,,,,Done
+,Cyient DLM,Hyderabad,Shrikant I,shrikant@cyientdlm.com,1400.0,280.0,OEM,70.0,SAP,,,Locator not Present
+,D.S. Group (DSG),Noida,Anand Sharma,anand.sharma@dsgroup.com,10500.0,1200.0,,42.0,SAP S/4HANA,,,Locator not Present
+,Dabur India,Ghaziabad,Ankush Jain,ankush.jain@dabur.com,14000.0,1200.0,"~7,500",35.0,SAP,,,On Hold
+,Dalmia Bharat,New Delhi,Dharmender Tuteja,tuteja.d@dalmiabharat.com,16500.0,950.0,35000,28.0,SAP,,,Locator not Present
+,Deepak Fertilisers,Pune,Subhash Chand Anand,subhash.chand.anand@dfpcl.com,10400.0,1450.0,,51.0,SAP,,,Done
+,Dhanuka Agritech,Gurugram,Vinod K Bansal,vinod.bansal@dhanuka.com,2100.0,550.0,8500,90.0,SAP,,,Locator not Present
+,Dharmaj Crop Guard,Ahmedabad,Vinay Joshi,vinay.joshi@dharmajop.com,650.0,165.0,,92.0,SAP Business One,,,Locator not Present
+,Dixon Technologies,Noida,Saurabh Gupta,saurabh.gupta@dixoninfo.com,28000.0,2400.0,OEM,35.0,SAP,,,Locator not Present
+,Dodla Dairy,Hyderabad,Anjaneyulu Ganji,anjaneyulu@dodladairy.com,3500.0,110.0,"~1,600",12.0,Oracle,,,Done
+,Dollar Industries,Kolkata,Ajay Patodia,ajay.patodia@dollarindustries.com,1800.0,520.0,1300,115.0,SAP,,,Locator not Present
+,Dutron Group,Ahmedabad,B. R. Barot,b.r.barot@dutronindia.com,104.03,28.0,,98.0,Tally,,,In Progress
+,EID Parry (India),Chennai,Y. Venkateshwarlu,y..venkateshwarlu@parry.murugappa.com,32047.8,1850.0,,21.0,SAP S/4HANA,,,Done
+,Elin Electronics,New Delhi,Raj Karan Chhajer,raj.karan.chhajer@elinindia.com,1100.0,280.0,,93.0,SAP,,,Locator not Present
+,Emami Ltd,Kolkata,N.H. Bhansali,nhbhansali@emamigroup.com,4100.0,900.0,"~3,800",85.0,SAP,,,Locator not Present
+,Empowera Tech.,New Delhi,Deepesh Gandhi,deepesh.gandhi@empowera.in,120.0,35.0,,105.0,Tally / SAP B1,,,Locator not Present
+,Empowera Technorganics,New Delhi,Deepesh Gandhi,deepesh.gandhi@empowera.in,120.0,35.0,,105.0,Tally / SAP B1,,,Locator not Present
+,Epack Durable,Noida,Narayan Lodha,narayan.lodha@epack.in,1850.0,390.0,,77.0,SAP,,,Locator not Present
+,Esdee Paints,Ahmedabad,,accounts@esdeepaints.com,300.0,55.0,1500,62.0,Custom,,,Locator not Present
+,Eureka Forbes,Mumbai,Gaurav Khandelwal,gaurav.khandelwal@eurekaforbes.com,3500.0,300.0,Direct,30.0,SAP,,,Done
+,Excel Industries,Mumbai,Devendra Dosi,devendra.dosi@excelind.co.in,1008.0,240.0,,87.0,SAP,,,Locator not Present
+,Exide Industries,Kolkata,Asish Kumar Mukherjee,asish.kumar.mukherjee@exide.co.in,17450.0,1550.0,,32.0,SAP S/4HANA,,,Done
+,Fabindia Ltd,New Delhi,K. Ramachandran,k..ramachandran@fabindia.net,1310.0,165.0,,46.0,SAP S/4HANA,,,Not Applicable
+,FACT,Kochi,Sakthivel M.,sakthivel.m.@fact.co.in,6200.0,980.0,,58.0,SAP,,,Locator not Present
+,Filatex India,New Delhi,Madhav Bhageria,madhav@filatex.com,4900.0,420.0,B2B,32.0,SAP,,,Locator not Present
+,Fine Organic,Mumbai,Sonali Bhadtiere,sonali@fineorganics.com,3200.0,450.0,Export,40.0,SAP,,,Locator not Present
+,Finolex Industries,Pune,Niraj Kulkarni,niraj.kulkarni@finolexind.com,5400.0,410.0,22000,35.0,SAP,,,Done
+,Fire-Boltt,Mumbai,Suresh Kumar,suresh.kumar@boltt.com,1400.0,275.0,,72.0,Tally,,,Locator not Present
+,Fosroc India,Bengaluru,Mohesh Agrawal,mohesh.agrawal@fosroc.com,1800.0,320.0,,65.0,SAP,,,Locator not Present
+,Galaxy Surfactants,Mumbai,Ganesh Kamath,ganesh.kamath@galaxysurfactants.com,4800.0,650.0,B2B,55.0,SAP,,,Locator not Present
+,Ganesha Ecosphere,Kanpur,Gopal Agarwal,gopal.agarwal@ganeshaecosphere.com,1350.0,185.0,,50.0,SAP,,,Locator not Present
+,Garware Technical Fibres,Pune,Mukherjee,finance@garwarefibres.com,1600.0,310.0,B2B,78.0,SAP,,,Locator not Present
+,Gem Paints,Bengaluru,Ramesh Kumar,ramesh.kumar@gempaints.com,110.0,35.0,,115.0,Tally,,,Locator not Present
+,Gemini Paints,Bangalore,,finance@geminipaints.com,120.0,20.0,600,65.0,Tally,,,Locator not Present
+,Gillette India,Mumbai,Gautam Kamath,kamath.g@pg.com,3000.0,380.0,"~1,100",48.0,SAP,,,Locator not Present
+,GNFC,Bharuch,D. V. Parikh,d.v.parikh@gnfc.in,8200.0,1150.0,,51.0,SAP,,,Locator not Present
+,Go Fashion,Chennai,R Mohan,mohan@gocolors.com,950.0,80.0,Retail,30.0,SAP,,,Not Applicable
+,Godrej Consumer,Mumbai,Aasif Malbari,aasif.malbari@godrejcp.com,15500.0,1500.0,"~3,200",38.0,SAP,,,Done
+,Gokaldas Exports,Bengaluru,Sumit Keshan,sumit.keshan@gokaldasexports.com,2800.0,410.0,Export,60.0,SAP,,,Locator not Present
+,Gold Plus Glass,Roorkee,Tarun Jain,tarun.jain@goldplusgroup.com,1400.0,260.0,,68.0,SAP Business One,,,Locator not Present
+,Gopal Snacks,Rajkot,Rigan Raithatha,rigan.raithatha@gopalsnacks.com,1473.6,45.0,,11.0,SAP,,,Locator not Present
+,GP Crop Care,Ahmedabad,,,,,,,,,,Locator not Present
+,Grasim Industries,Mumbai,Pavan Jain,pavan.jain@adityabirla.com,135000.0,9000.0,Diversified,35.0,SAP,,,Locator not Present
+,Greenlam Ind.,New Delhi,Ashok Kumar Sharma,ashok.kumar.sharma@greenlam.com,2350.0,415.0,,64.0,SAP S/4HANA,,,On Hold
+,Greenpanel Industries,Gurugram,V Venkatramani,v.venkat@greenpanel.com,2100.0,220.0,2200,30.0,SAP,,,On Hold
+,Greenply Industries,Kolkata,Nitin Kalani,nitin.kalani@greenply.com,2400.0,410.0,2500,65.0,SAP,,,Done
+,GSFC,Vadodara,Vishvesh V. Vachhrajani,vishvesh.vachhrajani@gsfcltd.com,9800.0,1320.0,,49.0,SAP,,,Locator not Present
+,Gujarat Fluorochemicals,Noida,Manoj Agrawal,manoj.agrawal@gfl.co.in,6100.0,1200.0,B2B,72.0,SAP,,,Locator not Present
+,Gujarat Guardian,Bharuch,Nitin Shah,nitin.shah@modiguard.com,950.0,175.0,,67.0,SAP,,,Locator not Present
+,H&R Johnson India,Mumbai,Vijay Aggarwal,vijay.aggarwal@hrjohnsonindia.com,2800.0,420.0,,55.0,SAP,,,Done
+,H.B. Fuller India,Pune,Atul Narang,atul.narang@hbfuller.com,1100.0,195.0,,65.0,SAP S/4HANA,,,Done
+,Haier India,New Delhi,Satish NS,satish.ns@haierindia.com,11000.0,1350.0,,45.0,SAP,,,On Hold
+,Hatsun Agro,Chennai,H. Ramachandran,h.ramachandran@hap.in,9200.0,140.0,"~3,800",6.0,SAP,,,Done
+,Havells India,Noida,Rajesh Gupta,rajesh.gupta@havells.com,23500.0,1600.0,15000,25.0,SAP,,,Done
+,Hawkins Cookers,Mumbai,Sudeep Yadav,finance@hawkinscookers.com,1250.0,110.0,6500,30.0,Custom,,,Locator not Present
+,HeidelbergCement India,Gurugram,Vimal Kumar Jain,vimal.kumar.jain@heidelbergcement.in,2400.0,190.0,,29.0,SAP,,,Locator not Present
+,Henkel India,Navi Mumbai,S. Sunil Kumar,s.kumar@henkel.com,3420.0,410.0,,44.0,SAP,,,On Hold
+,Heranba Ind.,Mumbai,Rajkumar Bafna,rajkumar.bafna@heranba.com,1450.0,380.0,,95.0,SAP,,,Locator not Present
+,Heritage Foods,Hyderabad,Srideep Kesavan,srideep.kesavan@heritagefoods.in,4100.0,130.0,"~2,200",12.0,SAP,,,Locator not Present
+,Himatsingka Seide,Bengaluru,Shrikant Himatsingka,shrikant@himatsingka.com,3400.0,820.0,Global,90.0,SAP,,,Locator not Present
+,Hindustan Unilever,Mumbai,Ritesh Tiwari,ritesh.tiwari@unilever.com,68000.0,3100.0,"~4,800",16.0,SAP,,,Locator not Present
+,Hindware (HSIL),Gurugram,Sandeep Sikka,sandeep.sikka@hindware.co.in,2350.0,410.0,,64.0,SAP S/4HANA,,,Done
+,Honeywell Auto,Pune,Pulkit Goyal,pulkit.goyal@honeywell.com,4189.6,1021.0,,89.0,SAP,,,On Hold
+,HP Adhesives,Mumbai,Karan Motwani,karan.motwani@hpadhesives.com,252.9,68.0,,98.0,SAP,,,Locator not Present
+,IFB Industries,Kolkata,Prabir Chatterjee,prabir_chatterjee@ifbglobal.com,4900.0,420.0,6000,35.0,SAP,,,Done
+,IFFCO,New Delhi,Rakesh Kapur,rakesh.kapur@iffco.in,60000.0,8400.0,,51.0,Oracle EBS,,,On Hold
+,Imagine Mkt (boAt),Mumbai,Rakesh Thakur,rakesh.thakur@imaginemarketingindia.com,3073.0,580.0,,69.0,SAP Business One,,,Locator not Present
+,India Cements,Chennai,R Srinivasan,rsrinivasan@indiacements.co.in,5800.0,650.0,4500,65.0,SAP,,,Locator not Present
+,India Glycols,Noida,Anand Singhal,anand.singhal@indiaglycols.com,8100.0,1100.0,B2B,48.0,SAP,,,Locator not Present
+,India Pesticides,Lucknow,S.P. Gupta,s.p..gupta@indiapesticideslimited.com,850.0,190.0,,82.0,SAP Business One,,,Locator not Present
+,Indigo Paints,Pune,Chetan Humane,chetan.humane@indigopaints.com,1800.0,310.0,17000,62.0,SAP B1,,,Done
+,Indo Count,Mumbai,K R Lalpuria,krlalpuria@indocount.com,3500.0,580.0,Export,65.0,SAP,,,Locator not Present
+,Indogulf opsciences,New Delhi,Manoj Kumar,manoj.kumar@indogulfgroup.com,553.8,145.0,,85.0,SAP,,,Locator not Present
+,Insecticides (India),New Delhi,Sandeep Aggarwal,sandeep.aggarwal@insecticidesindia.com,2100.0,480.0,,83.0,SAP,,,Locator not Present
+,Intex Technologies,New Delhi,,info@intex.in,950.0,210.0,,81.0,SAP,,,Locator not Present
+,ITC Limited,Kolkata,Supratim Dutta,supratim.dutta@itc.in,76450.0,3120.0,,15.0,SAP S/4HANA,,,On Hold
+,Jain Irrigation,Jalgaon,Ashok B. Jain,ashok.b.jain@jains.com,6320.0,1580.0,,181.0,SAP S/4HANA,,,Done
+,Jain Irrigation Systems,Jalgaon,Ashok Jain,ashok.jain@jains.com,6320.0,1580.0,,181.0,SAP S/4HANA,,,Not Applicable
+,Jaquar Group,Manesar,Deepak Raj Jain,deepak.raj.jain@jaquar.com,5500.0,850.0,,56.0,SAP,,,Done
+,Jenson & Nicholson,Gurugram,,investor@jnpl.in,200.0,45.0,1500,75.0,Tally,,,Locator not Present
+,Jindal Saw,New Delhi,Narendra Mantri,narendra.mantri@jindalsaw.com,18500.0,3200.0,,63.0,SAP,,,Done
+,Jindal Worldwide,Ahmedabad,Gopal Jindal,gopal.jindal@jindaltextiles.com,2100.0,480.0,,83.0,SAP,,,Done
+,JK Cement,Kanpur,Ajay Kumar Saraogi,ajay.kumar.saraogi@jkcement.com,11450.0,890.0,,28.0,SAP S/4HANA,,,Done
+,JK Lakshmi Cement,New Delhi,Sudhir Bidkar,sbidkar@jkmail.com,7200.0,280.0,8500,20.0,SAP,,,Done
+,Jotun India,Mumbai,Rana Pratap Singh,rana.singh@jotun.com,1180.0,205.0,,63.0,IFS Applications,,,Done
+,JSW Cement,Mumbai,Narinder Singh Kahlon,narinder.singh.kahlon@jswcement.in,5800.0,610.0,,38.0,SAP S/4HANA,,,Locator not Present
+,JSW Paints,Mumbai,Pirojshaw Sarkari,pirojshaw.sarkari@jswpaints.in,2180.0,340.0,,57.0,SAP,,,On Hold
+,Jubilant Industries,Gajraula,Umesh Sharma,umesh.sharma@jubl.com,1480.0,215.0,,53.0,SAP,,,Locator not Present
+,Jyothy Labs,Mumbai,Sanjay Agarwal,sanjay.agarwal@jyothy.com,3300.0,310.0,"~2,200",35.0,SAP,,,Locator not Present
+,Jyoti Resins,Ahmedabad,Utkarsh Patel,utkarsh.patel@euro7000.com,300.0,132.0,,161.0,Tally.ERP 9,,,Locator not Present
+,Kajaria Ceramics,New Delhi,Sanjeev Agarwal,sanjeev@kajariaceramics.com,5100.0,720.0,2000,55.0,SAP,,,Done
+,Kamdhenu Colour,Gurugram,Harish Kumar Agarwal,harish.kumar.agarwal@kamdhenulimited.com,220.0,65.0,,108.0,Tally.ERP 9,,,Locator not Present
+,Kansai Nerolac,Mumbai,Prashant Pai,prashantpai@nerolac.com,8900.0,1250.0,32000,50.0,SAP,,,Done
+,Kaynes Technology,Mysore,Jairam Sampath,jairam@kaynestechnology.net,2100.0,450.0,OEM,75.0,SAP,,,Locator not Present
+,KCP Limited,Chennai,G.N. Murty,g.n.murty@kcp.co.in,2200.0,285.0,,47.0,SAP,,,Locator not Present
+,KEI Industries,New Delhi,Rajeev Gupta,rajeev.gupta@keiind.com,9200.0,2100.0,2000,80.0,SAP,,,Done
+,Kewal Kiran,Mumbai,Bhavin Sheth,bhavin.sheth@kewalkiran.com,980.0,220.0,3000,85.0,SAP,,,Locator not Present
+,Kisan Mouldings,Mumbai,Suresh Purohit,suresh.purohit@kisangroup.com,169.5,45.0,,72.0,SAP,,,Locator not Present
+,Kitex Garments,Kizhakkambalam,M. Jacob,m.jacob@kitexgarments.com,1000.0,225.0,,82.0,SAP,,,Locator not Present
+,Kohler India,Gurugram,,indiacustomercare@kohler.com,2100.0,385.0,,67.0,SAP,,,Done
+,KPR Mill,Coimbatore,P Kandaswamy,cfo@kprmill.com,7100.0,720.0,B2B,38.0,SAP,,,Locator not Present
+,KRBL Ltd,Noida,Ashish Jain,ashish.jain@krblindia.com,6200.0,700.0,Global,45.0,SAP,,,Locator not Present
+,Krishana Phoschem,Jodhpur,Sunil Kothari,sunil.kothari@krishnaphoschem.com,850.0,210.0,,90.0,Tally,,,Locator not Present
+,La Opala RG Ltd,Kolkata,Alok Pandey,alok.pandey@laopala.in,450.0,85.0,,69.0,SAP Business One,,,Locator not Present
+,Lava International,Noida,,info@lavainternational.in,6200.0,980.0,,58.0,SAP,,,Done
+,LG Electronics India,Noida,S. Bawa,s.bawa@lge.com,24643.0,3200.0,,47.0,SAP S/4HANA,,,Done
+,LMW (Textile Div),Coimbatore,,info@lmwtmd.com,1840.31,310.0,,61.0,SAP S/4HANA,,,Locator not Present
+,Loyal Textile Mills,Chennai,Venkatesh Ramachandran (CFO),venkatesh.ramachandran@loyaltextiles.com,682.15,115.0,,61.0,SAP,,,Locator not Present
+,LT Foods,Gurugram,Sachin Gupta,sachin.gupta@ltgroup.in,8500.0,1200.0,Global,58.0,SAP,,,Locator not Present
+,Luminous Power,Gurugram,Sandeep Sahu,sandeep.sahu@luminousindia.com,5500.0,820.0,,54.0,SAP,,,Done
+,Lux Industries,Kolkata,Saurabh Bhudolia,saurabh.bhudolia@luxinnerwear.com,2800.0,750.0,1100,105.0,SAP,,,Locator not Present
+,Madhya Bharat Agro,Bhilwara,Sourabh Gupta,sourabh.gupta@mbagro.in,950.0,185.0,,71.0,Tally / SAP,,,Locator not Present
+,Madras Fertilizers,Chennai,V. Balasubramaniam,v..balasubramaniam@madrasfert.co.in,2450.0,380.0,,57.0,SAP,,,Locator not Present
+,Mahamaya Lifesciences,Delhi,,,,,,,,,,Locator not Present
+,Mangalore Chem (MCF),Mangalore,S. Venkatesh,s.venkatesh@mangalorechemicals.com,3450.0,620.0,,66.0,SAP S/4HANA,,,Locator not Present
+,Mapei India,Bengaluru,S. K. Chaudhary,s.k.chaudhary@mapei.co.in,750.0,145.0,,70.0,SAP,,,Locator not Present
+,Marico Ltd,Mumbai,Pawan Agrawal,pawan.agrawal@marico.com,11200.0,700.0,"~5,800",25.0,SAP,,,Locator not Present
+,Meghmani Organics,Ahmedabad,Gurjit Singh,gurjit.singh@meghmani.com,2800.0,650.0,Export,85.0,SAP,,,Locator not Present
+,Menarini India,Mumbai,,,,,,,,,,Locator not Present
+,Merino Industries,New Delhi,Madan Lal Jain,madan.lal.jain@merinoindia.com,2100.0,380.0,,66.0,SAP,,,Done
+,Miomax Info,Gurugram,,info@miomaxinfo.com,650.0,180.0,,101.0,Tally / SAP,,,Not Applicable
+,Mirc Electronics,Mumbai,Shirish Suvagia,shirish.suvagia@onida.com,600.0,65.0,,92.0,SAP,,,Done
+,Monte Carlo Fas.,Ludhiana,Raj Kapoor Sharma,raj.kapoor.sharma@montecarlocorporate.com,1100.41,260.0,,86.0,SAP,,,Done
+,Mrs Bectors,Ludhiana,Parveen Goel,parveen.goel@cremica.in,2000.0,200.0,"~1,300",40.0,SAP,,,Locator not Present
+,NACL Industries,Hyderabad,R.K.S. Prasad,r.prasad@naclind.com,1200.0,315.0,,96.0,SAP,,,Locator not Present
+,Nagarjuna Fert,Hyderabad,A. Venkateswara Rao,a..venkateswara.rao@nagarjunafertilisers.com,1800.0,295.0,,60.0,Oracle EBS,,,Locator not Present
+,Nahar Spinning,Ludhiana,Anil Garg,anil.garg@owmnahar.com,3318.91,420.0,,46.0,SAP,,,Locator not Present
+,National Fertilizers,Noida,Hira Nand,hira.nand@nfl.co.in,18500.0,2600.0,,51.0,SAP,,,Locator not Present
+,Navin Fluorine,Mumbai,Anish Ganatra,anish.ganatra@nfil.in,2600.0,480.0,B2B,68.0,SAP,,,Locator not Present
+,Nestle India,Gurugram,Svetlana Boldina,svetlana.boldina@in.nestle.com,22500.0,280.0,"~1,900",6.0,SAP,,,Done
+,Nihon Parkerizing,Gurugram,,info@nihonparker.in,237.0,95.0,,77.0,SAP Business One,,,Not Applicable
+,Nihon Parkerizing India,Neemrana,K. Srinivasan,k..srinivasan@parkerising.co.in,450.0,95.0,,77.0,SAP Business One,,,Locator not Present
+,Nippon Paint,Chennai,Mahesh Anand,mahesh@nipponpaint.co.in,2100.0,350.0,12000,58.0,SAP,,,Locator not Present
+,Nitco Limited,Mumbai,Bikash Jain,bikash.jain@nitco.in,462.0,110.0,,65.0,SAP,,,Done
+,Nitin Spinners,Bhilwara,P Maheshwari,pmaheshwari@nitinspinners.com,3400.0,400.0,B2B,42.0,SAP,,,Locator not Present
+,NOCIL Ltd,Mumbai,P Srinivasan,p.srinivasan@nocil.com,1700.0,320.0,B2B,70.0,SAP,,,Locator not Present
+,Noise (Nexxbase),Gurugram,Amit Kothari,amit.kothari@nexxbase.com,2200.0,410.0,,68.0,SAP,,,Locator not Present
+,NRB Bearings,Mumbai,,,,,,,,,,Locator not Present
+,Nuvoco Vistas,Mumbai,Maneesh Agrawal,maneesh.agrawal@nuvoco.com,10800.0,920.0,,31.0,SAP,,,Done
+,Orient Bell,New Delhi,Himanshu Jindal,himanshu.jindal@orientbell.com,850.0,120.0,2500,50.0,SAP,,,Done
+,Orient Cement,New Delhi,Desh Deepak Khetrapal,desh.deepak.khetrapal@orientcement.com,3250.0,310.0,,35.0,SAP,,,Locator not Present
+,Orient Electric,New Delhi,Saibal Sengupta,saibal.sengupta@orientelectric.com,3100.0,480.0,5500,55.0,SAP,,,Done
+,P&G Hygiene,Mumbai,Prashant Bhatnagar,bhatnagar.p@pg.com,4500.0,410.0,"~1,600",35.0,SAP,,,Locator not Present
+,Page Industries,Bengaluru,Deepanjan B,deepanjan@jockeyindia.com,5900.0,350.0,115000,28.0,SAP,,,Not Applicable
+,Panasonic LS,Thane,Manish Sharma,manish.sharma@in.panasonic.com,11000.0,1450.0,,48.0,SAP,,,In Progress
+,Paradeep Phosphates,Bhubaneswar,Bijoy Biswal,bijoy.biswal@adventz.com,12400.0,1850.0,,54.0,SAP,,,Not Applicable
+,Parag Milk,Mumbai,Surendra Gupta,surendra.gupta@paragmilkfoods.com,3700.0,480.0,"~3,200",55.0,SAP,,,In Progress
+,Parryware (Roca),Chennai,K. Nirmal Kumar,k..nirmal.kumar@parryware.com,1950.0,320.0,,60.0,SAP,,,Done
+,PDS Limited,Mumbai,Tapaswi Patel,tapaswi.patel@pdsltd.com,10500.0,1850.0,,64.0,SAP,,,Locator not Present
+,Pearl Global,Gurugram,Sanjay Gandhi,sanjay.gandhi@pearlglobal.com,4500.0,820.0,,66.0,SAP,,,Locator not Present
+,PG Electroplast,Greater Noida,Vishal Gupta,vishal@pgel.in,2800.0,350.0,OEM,45.0,SAP,,,Locator not Present
+,Philips Domestic,Gurugram,,customercare.india@philips.com,4200.0,580.0,,50.0,SAP,,,Done
+,PI Industries,Gurugram,Manikantan V,manikantan@piind.com,9200.0,1600.0,10000,70.0,SAP,,,Locator not Present
+,Pidilite Industries,Mumbai,Sandeep Batra,sandeep.batra@pidilite.com,14500.0,1900.0,75000,40.0,SAP,,,Locator not Present
+,Polycab India,Mumbai,Gandharv Tongia,gandharv.tongia@polycab.com,20500.0,2800.0,5000,52.0,Oracle,,,Locator not Present
+,PPG Asian Paints,Mumbai,Abbas Motorwala,abbas.motorwala@ppgasianpaints.com,2400.0,380.0,,58.0,SAP S/4HANA,,,Done
+,Prataap Snacks,Indore,Sumit Sharma,sumit.sharma@yellowdiamond.in,2100.0,130.0,"~2,800",25.0,SAP,,,Locator not Present
+,Prince Pipes,Mumbai,Anand Gupta,anand.gupta@princepipes.com,3200.0,520.0,1800,60.0,SAP,,,
+,Prism Johnson,Mumbai,Sarat Chandak,sarat.chandak@prismjohnson.in,7250.0,650.0,,33.0,SAP,,,
+,Procter & Gamble,Mumbai,Prashant Bhatnagar,prashant.bhatnagar@pg.com,4200.0,210.0,,18.0,SAP,,,
+,Punjab Chemicals,Mumbai,Vikash Khanna,vikash.khanna@punjabchemicals.com,901.95,210.4,,98.0,SAP,,,
+,RAK Ceramics India,Mumbai,Harish Patel,harish.patel@rakceramics.com,750.0,185.0,,90.0,SAP,,,
+,Rallis India,Mumbai,Subhra Gourisaria,subhra.gourisaria@rallis.com,3500.0,750.0,4500,78.0,SAP,,,
+,Ramco Cements,Chennai,S Vaithiyanathan,sv@ramcocements.co.in,10500.0,850.0,12000,35.0,Ramco ERP,,,
+,Rapid Coat,Delhi,,finance@rapidcoat.com,180.0,30.0,800,70.0,Tally,,,
+,Rashtriya Chemicals,Mumbai,Nazhat J. Sheikh,nazhat.j.sheikh@rcfltd.com,17800.0,2450.0,,50.0,SAP,,,
+,Raymond Limited,Mumbai,Amit Agarwal,amit.agarwal@raymond.in,9500.0,1450.0,,56.0,SAP,,,
+,Reliance Retail,Mumbai,Dinesh Taluja,dinesh.taluja@ril.com,330943.0,12400.0,,14.0,SAP S/4HANA,,,
+,Rossari Biotech,Mumbai,Ketan Sablok,ketan.sablok@rossarimail.com,1800.0,280.0,B2B,62.0,SAP,,,
+,RSWM Ltd,Noida,Avinash Bhargava,avinash.bhargava@lnjbhilwara.com,4600.0,650.0,B2B,55.0,SAP,,,
+,Rupa & Company,Kolkata,Sumit Khowala,sumit.khowala@rupa.co.in,1600.0,480.0,1600,120.0,SAP,,,
+,Rushil Decor,Ahmedabad,Keyur Gajjar,keyur@rushil.com,950.0,140.0,1200,60.0,SAP,,,
+,S.P. Apparels,Coimbatore,S. Parthasarathy,s.parthasarathy@s-p-apparels.com,1410.0,345.0,,89.0,SAP,,,
+,Sagar Cements,Hyderabad,K. Prasad,k.prasad@sagarcements.in,2650.0,310.0,,42.0,SAP S/4HANA,,,
+,Saint-Gobain India,Mumbai,P. Padmakumar,p..padmakumar@saint-gobain.com,12500.0,1850.0,,54.0,SAP S/4HANA,,,
+,Samsung India,Gurugram,Partha Ghosh,partha.ghosh@samsung.com,111183.0,12400.0,,41.0,SAP S/4HANA,,,
+,Sanathan Textiles,Mumbai,,,,,,,,,,
+,Sangam (India),Bhilwara,Rakesh Bhandari,rakesh.bhandari@sangamgroup.com,2843.0,510.0,,65.0,SAP,,,
+,Sanghi Industries,Ahmedabad,Binod Kumar Modi,binod.kumar.modi@sanghicement.com,1150.0,165.0,,52.0,SAP,,,
+,Shalimar Paints,Gurugram,Davinder Dogra,davinder.dogra@shalimarpaints.com,650.0,120.0,9000,65.0,MS Dynamics,,,
+,Sharda Cropchem,Mumbai,Ashok Vashisht,ashok.vashisht@shardaintl.com,4600.0,1800.0,Global,145.0,SAP,,,
+,Sheenlac Paints,Chennai,Sudhir Peter,sudhir@sheenlac.in,650.0,110.0,3500,55.0,SAP,,,
+,Sherwin-Williams,Mumbai,,sw.india@sherwin.com,900.0,185.0,,75.0,Oracle EBS,,,
+,Sherwin-Williams India,Mumbai,Alok Sharma,alok.sharma@sherwin.com,900.0,185.0,,75.0,Oracle EBS,,,
+,Shivalik Rasayan,New Delhi,Deepak Goyal,deepak.goyal@shivalikrasayan.com,149.22,42.0,,102.0,Tally / SAP,,,
+,Shoppers Stop,Mumbai,Pankaj Chaturvedi,pankaj.chaturvedi@shoppersstop.com,4200.0,140.0,,12.0,SAP S/4HANA,,,
+,Shree Cement,Kolkata,Subhash Jajoo,jajoo@shreecement.com,24000.0,1200.0,28000,25.0,Oracle,,,
+,Sika India,Navi Mumbai,Somnath Mukherjee,somnath.mukherjee@in.sika.com,2150.0,365.0,,62.0,SAP,,,
+,Simpolo Ceramics,Morbi,,finance@simpolo.net,1100.0,200.0,1500,65.0,SAP,,,
+,Sirca Paints,New Delhi,Chahat Arora,chahat.arora@sircapaints.com,450.0,85.0,3000,70.0,Tally/Custom,,,
+,Sirca Paints India,New Delhi,Suraj Singh,suraj.singh@sircapaints.com,379.2,110.1,,105.0,SAP,,,
+,Siyaram Silk,Mumbai,Surendra Shetty,surendra.shetty@siyaram.com,2500.0,600.0,1600,90.0,SAP,,,
+,Skipper Limited,Kolkata,Shiv Shankar Gupta,shiv.shankar.gupta@skipperlimited.com,4624.0,1050.0,,83.0,SAP,,,
+,Snitch (D2C),Bengaluru,,hello@snitch.co.in,498.0,45.0,,33.0,NetSuite / SAP,,,
+,Snowcem Paints,Mumbai,,info@snowcem.in,180.0,35.0,1200,80.0,Tally,,,
+,Somany Ceramics,Noida,Kumar Sunit,sunit.kumar@somanyceramics.com,3100.0,480.0,2800,58.0,SAP,,,
+,Sony India,New Delhi,Sunil Nayyar,sunil.nayyar@sony.com,7851.0,950.0,,44.0,SAP S/4HANA,,,
+,SPIC (Southern Petro),Chennai,K.R. Anandan,k.r.anandan@spic.co.in,2850.0,410.0,,52.0,SAP,,,
+,SRF Ltd,Gurugram,Rahul Jain,rahul.jain@srf.co.in,15500.0,2300.0,Diversified,58.0,SAP,,,
+,Star Cement,Kolkata,Manoj Agarwal,manoj.agarwal@starcement.co.in,2850.0,240.0,,31.0,SAP Business One,,,
+,Stove Kraft,Bengaluru,Balaji A S,balaji@stovekraft.com,1600.0,210.0,7500,48.0,SAP B1,,,
+,Stylam Industries,Chandigarh,Sanjeev Vaid,sanjeev.vaid@stylam.com,1200.0,180.0,Export,55.0,SAP,,,
+,Sumitomo Chemical India,Mumbai,Anil Nawal,anil.nawal@sumitochem.co.in,4100.0,880.0,14000,95.0,SAP,,,
+,Supreme Industries,Mumbai,P C Somani,pcsomani@supreme.co.in,11200.0,750.0,5000,28.0,SAP,,,
+,Surya Masterbatches,New Delhi,rachit bansal,rachit.bansal@suryamasterbatches.com,180.0,48.0,,97.0,Tally,,,
+,Sutlej Textiles,Mumbai,Rajib Mukhopadhyay,rajib@sutlejtextiles.com,3500.0,500.0,B2B,55.0,SAP,,,
+,Symphony Ltd,Ahmedabad,Bhadresh Mehta,bhadresh@symphonylimited.com,1600.0,180.0,32000,38.0,SAP,,,
+,Syrma SGS,Chennai,Bijay Agrawal,bijay.agrawal@syrmasgs.com,3500.0,650.0,OEM,68.0,SAP,,,
+,Tasty Bite Eatables,Pune,Pradip Chaudhari,pradip.chaudhari@tastybite.com,520.0,65.0,,45.0,SAP S/4HANA,,,
+,Tata Chemicals,Mumbai,Nandakumar T,nandakumar@tatachemicals.com,17800.0,2400.0,B2B,55.0,SAP,,,
+,Tata Consumer,Mumbai,(CEO) Sunil D’Souza,investor.relations@tataconsumer.com,17200.0,1600.0,"~3,200",38.0,SAP,,,
+,TCNS Clothing,New Delhi,,finance@tcnsclothing.com,1300.0,150.0,Retail,45.0,SAP,,,
+,The Ramco Cements,Chennai,S. Vaithiyanathan,s.vaithiyanathan@ramcocements.co.in,9150.0,780.0,,31.0,SAP S/4HANA,,,
+,Titan Company,Bengaluru,Ashok Sonthalia,ashok.sonthalia@titan.co.in,57339.0,1850.0,,12.0,SAP S/4HANA,,,
+,Toto India,Mumbai,,customercare.in@toto.com,450.0,85.0,,69.0,SAP Business One,,,
+,Trent Limited,Mumbai,P. Venkatesalu,p.venkatesalu@trent-tata.com,12400.0,350.0,,10.0,SAP S/4HANA,,,
+,Trident Group,Ludhiana,Avneesh Barua,avneesh.barua@tridentindia.com,7200.0,920.0,,46.0,SAP,,,
+,Tropical Agro,Chennai,,,,,,,,,,
+,TTK Prestige,Bengaluru,R Saranyan,saranyan@ttkprestige.com,3200.0,350.0,11000,40.0,SAP,,,
+,UltraTech Cement,Mumbai,Atul Daga,atul.daga@adityabirla.com,82000.0,3500.0,100000,18.0,SAP,,,
+,UPL Limited,Mumbai,Bhupen Dube,bhupen.dube@upl-ltd.com,43000.0,11200.0,,95.0,SAP S/4HANA,,,
+,Usha International,Gurugram,Anju Munjal,anju.munjal@usha.com,3800.0,540.0,,52.0,SAP S/4HANA,,,
+,V2 Retail,New Delhi,Pratik Adukia,pratik.adukia@v2retail.com,1164.7,28.0,,9.0,SAP,,,
+,Vardhman Textiles,Ludhiana,Rajeev Thapar,rajeev.thapar@vardhman.com,11200.0,1500.0,B2B,50.0,SAP,,,
+,Varmora Granito,Morbi,Bhavesh Koshti,bhavesh.koshti@varmora.com,1450.0,310.0,,78.0,SAP B1,,,
+,Varun Beverages,Gurugram,Rajesh Chawla,rajesh.chawla@rjcorp.in,20000.0,500.0,"~2,800",12.0,SAP,,,
+,Vectus Industries,Noida,C. S. Singh,c.s.singh@vectus.in,1100.0,195.0,,65.0,SAP,,,
+,Vedant Fashions,Kolkata,Rahul Murarka,rahul.murarka@vedantfashions.com,1600.0,180.0,Retail,35.0,SAP,,,
+,V-Guard Industries,Kochi,Sudarshan Kasturi,sudarshan@vguard.in,5600.0,720.0,32000,50.0,SAP,,,
+,Voltas,Mumbai,Jitender P. Verma,jitender.p.verma@voltas.com,15737.0,2650.0,,61.0,SAP,,,
+,Voltas Ltd,Mumbai,Jitender Verma,jitenderverma@voltas.com,14800.0,3100.0,26000,78.0,SAP,,,
+,Welspun Corp,Mumbai,Percy Birdy,percy.birdy@welspun.com,17200.0,2850.0,,60.0,SAP S/4HANA,,,
+,Welspun Living,Mumbai,Sanjay Gupta,sanjay_gupta@welspun.com,11000.0,1600.0,Global,58.0,SAP,,,
+,Whirlpool India,Gurugram,Aditya Jain,aditya_jain@whirlpool.com,7800.0,750.0,13000,38.0,SAP,,,
+,Wonder Cement,Udaipur,Vineet Sharma,vineet.sharma@wondercement.com,4500.0,380.0,,31.0,SAP S/4HANA,,,
+,Xiaomi India,Bengaluru,Sameer B.S. Rao,sameer.rao@xiaomi.com,28500.0,3100.0,,40.0,SAP,,,
+,Yara Fertilizers,Gurugram,,umesh.parikh@zyduswellness.com,5500.0,1800.0,~3000,90.0,SAP,,,
+,Zodiac Clothing,Mumbai,B. Mahabala,b..mahabala@zodiacmtc.com,174.4,42.0,,88.0,SAP,,,
+,Zydus Wellness,Ahmedabad,Umesh Parikh,umesh.parikh@zyduswellness.com,2600.0,200.0,"~1,900",30.0,SAP,,,
+,Larsen & Toubro Ltd,Unknown,,,255734.0,53949.36,Other Building/Construction Materials,77.0,,,53949.36,Added via NSE+Screener
+,Maruti Suzuki India Ltd,Unknown,,,152913.0,6703.04,Other Building/Construction Materials,16.0,,,6703.04,Added via NSE+Screener
+,Bharat Electronics Ltd,Unknown,,,23658.0,9074.3,Consumer Durables and Electronics,140.0,,,9074.3,Added via NSE+Screener
+,JSW Steel Ltd,Unknown,,,168824.0,8325.57,Other Building/Construction Materials,18.0,,,8325.57,Added via NSE+Screener
+,Tata Steel Ltd,Unknown,,,218543.0,5388.73,Other Building/Construction Materials,9.0,,,5388.73,Added via NSE+Screener
+,Britannia Industries Ltd,Unknown,,,17943.0,442.43,FMCG and Food Processing,9.0,,,442.43,Added via NSE+Screener
+,DLF Ltd,Unknown,,,7994.0,810.35,Other Building/Construction Materials,37.0,,,810.35,Added via NSE+Screener
+,ABB India Ltd,Unknown,,,,,Consumer Durables and Electronics,88.0,,,,Added via NSE+Screener
+,Jindal Steel Ltd,Unknown,,,50129.0,1373.4,Other Building/Construction Materials,10.0,,,1373.4,Added via NSE+Screener
+,Siemens Ltd,Unknown,,,15485.0,2503.05,Consumer Durables and Electronics,59.0,,,2503.05,Added via NSE+Screener
+,CG Power & Industrial Solutions Ltd,Unknown,,,9909.0,2008.95,Consumer Durables and Electronics,74.0,,,2008.95,Added via NSE+Screener
+,Tata Consumer Products Ltd,Unknown,,,12802.0,561.18,FMCG and Food Processing,16.0,,,561.18,Added via NSE+Screener
+,Hitachi Energy India Ltd,Unknown,,,6385.0,2116.67,Consumer Durables and Electronics,121.0,,,2116.67,Added via NSE+Screener
+,Godrej Consumer Products Ltd,Unknown,,,14364.0,1810.26,FMCG and Food Processing,46.0,,,1810.26,Added via NSE+Screener
+,Siemens Energy India Ltd,Unknown,,,,,Consumer Durables and Electronics,90.0,,,,Added via NSE+Screener
+,United Spirits Ltd,Unknown,,,12069.0,3405.77,FMCG and Food Processing,103.0,,,3405.77,Added via NSE+Screener
+,Mazagon Dock Shipbuilders Ltd,Unknown,,,11432.0,1064.9,Other Building/Construction Materials,34.0,,,1064.9,Added via NSE+Screener
+,GE Vernova T&D India Ltd,Unknown,,,4292.0,1469.86,Consumer Durables and Electronics,125.0,,,1469.86,Added via NSE+Screener
+,Bharat Heavy Electricals Ltd,Unknown,,,28339.0,5900.72,Consumer Durables and Electronics,76.0,,,5900.72,Added via NSE+Screener
+,Lodha Developers Ltd,Unknown,,,13780.0,792.82,Other Building/Construction Materials,21.0,,,792.82,Added via NSE+Screener
+,Waaree Energies Ltd,Unknown,,,12765.0,699.45,Consumer Durables and Electronics,20.0,,,699.45,Added via NSE+Screener
+,NMDC Ltd,Unknown,,,23906.0,7728.52,Other Building/Construction Materials,118.0,,,7728.52,Added via NSE+Screener
+,Dixon Technologies (India) Ltd,Unknown,,,38860.0,6920.27,Consumer Durables and Electronics,65.0,,,6920.27,Added via NSE+Screener
+,Lloyds Metals & Energy Ltd,Unknown,,,6721.0,165.72,Other Building/Construction Materials,9.0,,,165.72,Added via NSE+Screener
+,Steel Authority of India Ltd,Unknown,,,102479.0,7580.64,Other Building/Construction Materials,27.0,,,7580.64,Added via NSE+Screener
+,Jindal Stainless Ltd,Unknown,,,39312.0,3123.42,Other Building/Construction Materials,29.0,,,3123.42,Added via NSE+Screener
+,Suzlon Energy Ltd,Unknown,,,10890.0,3878.63,Consumer Durables and Electronics,130.0,,,3878.63,Added via NSE+Screener
+,Rail Vikas Nigam Ltd,Unknown,,,19923.0,1473.76,Other Building/Construction Materials,27.0,,,1473.76,Added via NSE+Screener
+,Phoenix Mills Ltd,Unknown,,,486.0,22.64,Other Building/Construction Materials,17.0,,,22.64,Added via NSE+Screener
+,Prestige Estates Projects Ltd,Unknown,,,7349.0,1348.99,Other Building/Construction Materials,67.0,,,1348.99,Added via NSE+Screener
+,Colgate-Palmolive (India) Ltd,Unknown,,,,,FMCG and Food Processing,2.0,,,,Added via NSE+Screener
+,Fertilizers & Chemicals Travancore Ltd,Unknown,,,4051.0,288.56,Agri Chemicals and / or fertilizers,26.0,,,288.56,Added via NSE+Screener
+,Patanjali Foods Ltd,Unknown,,,34157.0,1590.87,FMCG and Food Processing,17.0,,,1590.87,Added via NSE+Screener
+,Oberoi Realty Ltd,Mumbai,,,5286.0,115.86,Other Building/Construction Materials,8.0,,,115.86,Added via NSE+Screener
+,Godrej Properties Ltd,Unknown,,,1950.0,283.15,Other Building/Construction Materials,53.0,,,283.15,Added via NSE+Screener
+,Berger Paints India Ltd,Unknown,,,11545.0,1549.88,"Paints, Coating and Pipes",49.0,,,1549.88,Added via NSE+Screener
+,P I Industries Ltd,Unknown,,,7571.0,1203.06,Agri Chemicals and / or fertilizers,58.0,,,1203.06,Added via NSE+Screener
+,J K Cements Ltd,Unknown,,,11093.0,668.62,Other Building/Construction Materials,22.0,,,668.62,Added via NSE+Screener
+,Thermax Ltd,Unknown,,,6254.0,1644.89,Consumer Durables and Electronics,96.0,,,1644.89,Added via NSE+Screener
+,Radico Khaitan Ltd,Unknown,,,4843.0,1180.9,FMCG and Food Processing,89.0,,,1180.9,Added via NSE+Screener
+,Apar Industries Ltd,Unknown,,,18581.0,4072.55,Consumer Durables and Electronics,80.0,,,4072.55,Added via NSE+Screener
+,Premier Energies Ltd,Unknown,,,6519.0,803.71,Consumer Durables and Electronics,45.0,,,803.71,Added via NSE+Screener
+,Cochin Shipyard Ltd,Unknown,,,4820.0,224.49,Other Building/Construction Materials,17.0,,,224.49,Added via NSE+Screener
+,Procter & Gamble Hygiene and Health Care Ltd,Unknown,,,3374.0,305.05,FMCG and Food Processing,33.0,,,305.05,Added via NSE+Screener
+,ITC Hotels Ltd,Unknown,,,,,FMCG and Food Processing,21.0,,,,Added via NSE+Screener
+,Jubilant Foodworks Ltd,Unknown,,,8142.0,334.6,FMCG and Food Processing,15.0,,,334.6,Added via NSE+Screener
+,K P R Mill Ltd,Unknown,,,6388.0,577.55,Other Building/Construction Materials,33.0,,,577.55,Added via NSE+Screener
+,ITI Ltd,Unknown,,,3616.0,3992.46,Consumer Durables and Electronics,403.0,,,3992.46,Added via NSE+Screener
+,Metro Brands Ltd,Unknown,,,2507.0,89.29,Textiles and Apparel,13.0,,,89.29,Added via NSE+Screener
+,IRB Infrastructure Developers Ltd,Unknown,,,7613.0,333.72,Other Building/Construction Materials,16.0,,,333.72,Added via NSE+Screener
+,Amber Enterprises India Ltd,Unknown,,,9973.0,1748.69,Consumer Durables and Electronics,64.0,,,1748.69,Added via NSE+Screener
+,AWL Agri Business Ltd,Unknown,,,63672.0,2442.21,Agri Chemicals and / or fertilizers,14.0,,,2442.21,Added via NSE+Screener
+,NBCC (India) Ltd,Unknown,,,12039.0,3067.47,Other Building/Construction Materials,93.0,,,3067.47,Added via NSE+Screener
+,Hatsun Agro Product Ltd,Unknown,,,,,Agri Chemicals and / or fertilizers,0.0,,,,Added via NSE+Screener
+,Shyam Metalics & Energy Ltd,Unknown,,,15138.0,788.01,Other Building/Construction Materials,19.0,,,788.01,Added via NSE+Screener
+,Schneider Electric Infrastructure Ltd,Unknown,,,2637.0,664.67,Consumer Durables and Electronics,92.0,,,664.67,Added via NSE+Screener
+,Kalpataru Projects International Ltd,Unknown,,,22316.0,7825.88,Other Building/Construction Materials,128.0,,,7825.88,Added via NSE+Screener
+,Sarda Energy & Minerals Ltd,Unknown,,,4643.0,216.25,Other Building/Construction Materials,17.0,,,216.25,Added via NSE+Screener
+,Gujarat Mineral Development Corporation Ltd,Unknown,,,2851.0,85.92,Other Building/Construction Materials,11.0,,,85.92,Added via NSE+Screener
+,Godawari Power & Ispat Ltd,Unknown,,,4656.0,89.29,Other Building/Construction Materials,7.0,,,89.29,Added via NSE+Screener
+,Ratnamani Metals & Tubes Ltd,Unknown,,,4876.0,1295.81,Other Building/Construction Materials,97.0,,,1295.81,Added via NSE+Screener
+,Chambal Fertilisers & Chemicals Ltd,Unknown,,,16646.0,364.84,Agri Chemicals and / or fertilizers,8.0,,,364.84,Added via NSE+Screener
+,Brigade Enterprises Ltd,Bengaluru,,,5074.0,625.56,Other Building/Construction Materials,45.0,,,625.56,Added via NSE+Screener
+,Crompton Greaves Consumer Electricals Ltd,Unknown,,,7028.0,596.9,Consumer Durables and Electronics,31.0,,,596.9,Added via NSE+Screener
+,Anant Raj Ltd,Unknown,,,1229.0,117.85,Other Building/Construction Materials,35.0,,,117.85,Added via NSE+Screener
+,Travel Food Services Ltd,Unknown,,,1688.0,106.37,FMCG and Food Processing,23.0,,,106.37,Added via NSE+Screener
+,R R Kabel Ltd,Unknown,,,7618.0,813.98,Other Building/Construction Materials,39.0,,,813.98,Added via NSE+Screener
+,Bikaji Foods International Ltd,Unknown,,,2622.0,100.57,FMCG and Food Processing,14.0,,,100.57,Added via NSE+Screener
+,Emmvee Photovoltaic Power Ltd,Unknown,,,,,Consumer Durables and Electronics,19.0,,,,Added via NSE+Screener
+,Triveni Turbine Ltd,Unknown,,,1795.0,354.08,Consumer Durables and Electronics,72.0,,,354.08,Added via NSE+Screener
+,Kansai Nerolac Paints Ltd,Unknown,,,7497.0,1273.46,"Paints, Coating and Pipes",62.0,,,1273.46,Added via NSE+Screener
+,Century Plyboards (India) Ltd,Unknown,,,4528.0,496.22,Other Building/Construction Materials,40.0,,,496.22,Added via NSE+Screener
+,KEC International Ltd,Unknown,,,19178.0,4203.4,Other Building/Construction Materials,80.0,,,4203.4,Added via NSE+Screener
+,CCL Products (India) Ltd,Unknown,,,1718.0,423.62,FMCG and Food Processing,90.0,,,423.62,Added via NSE+Screener
+,L T Foods Ltd,Unknown,,,4085.0,190.26,Agri Chemicals and / or fertilizers,17.0,,,190.26,Added via NSE+Screener
+,Inox Wind Ltd,Unknown,,,3557.0,2689.68,Consumer Durables and Electronics,276.0,,,2689.68,Added via NSE+Screener
+,Sobha Ltd,Unknown,,,4039.0,188.12,Other Building/Construction Materials,17.0,,,188.12,Added via NSE+Screener
+,Akzo Nobel India Ltd,Unknown,,,4091.0,582.83,"Paints, Coating and Pipes",52.0,,,582.83,Added via NSE+Screener
+,Gallantt Ispat Ltd.,Eastern Uttar Pradesh,,,4293.0,94.09,Other Building/Construction Materials,8.0,,,94.09,Added via NSE+Screener
+,Finolex Cables Ltd,Unknown,,,5319.0,247.73,Other Building/Construction Materials,17.0,,,247.73,Added via NSE+Screener
+,Swan Defence and Heavy Industries Ltd,Unknown,,,7.0,0.46,Other Building/Construction Materials,24.0,,,0.46,Added via NSE+Screener
+,Techno Electric & Engineering Company Ltd,Unknown,,,2269.0,671.38,Other Building/Construction Materials,108.0,,,671.38,Added via NSE+Screener
+,BEML Ltd,Unknown,,,4022.0,1696.95,Other Building/Construction Materials,154.0,,,1696.95,Added via NSE+Screener
+,Allied Blenders & Distillers Ltd,Unknown,,,3520.0,1745.53,FMCG and Food Processing,181.0,,,1745.53,Added via NSE+Screener
+,TD Power Systems Ltd,Unknown,,,1279.0,438.01,Consumer Durables and Electronics,125.0,,,438.01,Added via NSE+Screener
+,Usha Martin Ltd,Unknown,,,2171.0,267.66,Other Building/Construction Materials,45.0,,,267.66,Added via NSE+Screener
+,Deepak Fertilisers & Petrochemicals Corp Ltd,Unknown,,,10274.0,1604.43,Agri Chemicals and / or fertilizers,57.0,,,1604.43,Added via NSE+Screener
+,Ircon International Ltd,Unknown,,,10760.0,1326.58,Other Building/Construction Materials,45.0,,,1326.58,Added via NSE+Screener
+,Graphite India Ltd,Unknown,,,2560.0,469.92,Other Building/Construction Materials,67.0,,,469.92,Added via NSE+Screener
+,Trident Ltd,Unknown,,,6987.0,306.28,Other Building/Construction Materials,16.0,,,306.28,Added via NSE+Screener
+,Godrej Agrovet Ltd,Unknown,,,9383.0,565.55,Agri Chemicals and / or fertilizers,22.0,,,565.55,Added via NSE+Screener
+,Tilaknagar Industries Ltd,Unknown,,,1434.0,408.59,FMCG and Food Processing,104.0,,,408.59,Added via NSE+Screener
+,SignatureGlobal India Ltd,Unknown,,,2498.0,61.59,Other Building/Construction Materials,9.0,,,61.59,Added via NSE+Screener
+,Engineers India Ltd,Unknown,,,3088.0,448.39,Other Building/Construction Materials,53.0,,,448.39,Added via NSE+Screener
+,Cupid Ltd,Unknown,,,,,FMCG and Food Processing,134.0,,,,Added via NSE+Screener
+,NMDC Steel Ltd,Unknown,,,8503.0,186.37,Other Building/Construction Materials,8.0,,,186.37,Added via NSE+Screener
+,The Bombay Burmah Trading Corporation Ltd,Unknown,,,275.0,53.49,FMCG and Food Processing,71.0,,,53.49,Added via NSE+Screener
+,Whirlpool of India Ltd,Unknown,,,7919.0,520.7,Consumer Durables and Electronics,24.0,,,520.7,Added via NSE+Screener
+,Nuvoco Vistas Corporation Ltd,Unknown,,,10357.0,652.63,Other Building/Construction Materials,23.0,,,652.63,Added via NSE+Screener
+,Afcons Infrastructure Ltd,Unknown,,,12548.0,2784.62,Other Building/Construction Materials,81.0,,,2784.62,Added via NSE+Screener
+,Gravita India Ltd,Unknown,,,3869.0,275.6,Other Building/Construction Materials,26.0,,,275.6,Added via NSE+Screener
+,Vesuvius India Ltd,Unknown,,,,,Other Building/Construction Materials,84.0,,,,Added via NSE+Screener
+,Balrampur Chini Mills Ltd,Unknown,,,5415.0,148.36,FMCG and Food Processing,10.0,,,148.36,Added via NSE+Screener
+,Action Construction Equipment Ltd,Unknown,,,3327.0,264.34,Other Building/Construction Materials,29.0,,,264.34,Added via NSE+Screener
+,Azad Engineering Ltd,Unknown,,,453.0,222.16,Consumer Durables and Electronics,179.0,,,222.16,Added via NSE+Screener
+,HEG Ltd,Unknown,,,2158.0,443.42,Other Building/Construction Materials,75.0,,,443.42,Added via NSE+Screener
+,Cemindia Projects Ltd,Unknown,,,9097.0,1595.09,Other Building/Construction Materials,64.0,,,1595.09,Added via NSE+Screener
+,NCC Ltd,Unknown,,,22199.0,3345.05,Other Building/Construction Materials,55.0,,,3345.05,Added via NSE+Screener
+,Sterlite Technologies Ltd,Unknown,,,3996.0,821.1,Consumer Durables and Electronics,75.0,,,821.1,Added via NSE+Screener
+,G R Infraprojects Ltd,Unknown,,,7395.0,222.86,Other Building/Construction Materials,11.0,,,222.86,Added via NSE+Screener
+,Bata India Ltd,Unknown,,,3488.0,114.67,Textiles and Apparel,12.0,,,114.67,Added via NSE+Screener
+,Honasa Consumer Ltd,Unknown,,,2067.0,130.25,FMCG and Food Processing,23.0,,,130.25,Added via NSE+Screener
+,Voltamp Transformers Ltd,Unknown,,,1934.0,291.42,Consumer Durables and Electronics,55.0,,,291.42,Added via NSE+Screener
+,Elecon Engineering Company Ltd,Unknown,,,2227.0,616.24,Consumer Durables and Electronics,101.0,,,616.24,Added via NSE+Screener
+,Waaree Renewable Technologies Ltd,Unknown,,,1598.0,499.1,Consumer Durables and Electronics,114.0,,,499.1,Added via NSE+Screener
+,Tejas Networks Ltd,Unknown,,,8923.0,4449.28,Consumer Durables and Electronics,182.0,,,4449.28,Added via NSE+Screener
+,Transformers & Rectifiers India Ltd,Unknown,,,1948.0,442.97,Consumer Durables and Electronics,83.0,,,442.97,Added via NSE+Screener
+,RHI Magnesita India Ltd,Unknown,,,3674.0,734.8,Other Building/Construction Materials,73.0,,,734.8,Added via NSE+Screener
+,Atlanta Electricals Ltd,Unknown,,,1244.0,351.05,Consumer Durables and Electronics,103.0,,,351.05,Added via NSE+Screener
+,Manorama Industries Ltd,Unknown,,,771.0,101.39,FMCG and Food Processing,48.0,,,101.39,Added via NSE+Screener
+,Orkla India Ltd,Unknown,,,,,FMCG and Food Processing,25.0,,,,Added via NSE+Screener
+,Triveni Engineering and Industries Ltd,Unknown,,,5537.0,515.78,FMCG and Food Processing,34.0,,,515.78,Added via NSE+Screener
+,Maharashtra Seamless Ltd,Unknown,,,5269.0,649.6,Other Building/Construction Materials,45.0,,,649.6,Added via NSE+Screener
+,Mahindra Lifespace Developers Ltd,Unknown,,,372.0,138.61,Other Building/Construction Materials,136.0,,,138.61,Added via NSE+Screener
+,Genus Power Infrastructures Ltd,Unknown,,,2442.0,1364.84,Consumer Durables and Electronics,204.0,,,1364.84,Added via NSE+Screener
+,Embassy Developments Ltd,Unknown,,,2111.0,11.57,Other Building/Construction Materials,2.0,,,11.57,Added via NSE+Screener
+,Relaxo Footwears Ltd,Unknown,,,2790.0,313.4,Textiles and Apparel,41.0,,,313.4,Added via NSE+Screener
+,Aditya Birla Fashion & Retail Ltd,Unknown,,,7351.0,382.65,Textiles and Apparel,19.0,,,382.65,Added via NSE+Screener
+,Campus Activewear Ltd,Unknown,,,,,Textiles and Apparel,41.0,,,,Added via NSE+Screener
+,Dilip Buildcon Ltd,Unknown,,,11317.0,1426.25,Other Building/Construction Materials,46.0,,,1426.25,Added via NSE+Screener
+,Jayaswal Neco Industries Ltd,Unknown,,,,,Other Building/Construction Materials,44.0,,,,Added via NSE+Screener
+,Diamond Power Infrastructure Ltd,Unknown,,,1115.0,174.12,Consumer Durables and Electronics,57.0,,,174.12,Added via NSE+Screener
+,Westlife Foodworld Ltd,Unknown,,,2491.0,20.47,FMCG and Food Processing,3.0,,,20.47,Added via NSE+Screener
+,Pearl Global Industries Ltd,Unknown,,,4506.0,320.98,Textiles and Apparel,26.0,,,320.98,Added via NSE+Screener
+,Transrail Lighting Ltd,Unknown,,,5308.0,1323.36,Consumer Durables and Electronics,91.0,,,1323.36,Added via NSE+Screener
+,Vikram Solar Ltd,Unknown,,,3415.0,1225.66,Consumer Durables and Electronics,131.0,,,1225.66,Added via NSE+Screener
+,ISGEC Heavy Engineering Ltd,Unknown,,,6422.0,2832.72,Other Building/Construction Materials,161.0,,,2832.72,Added via NSE+Screener
+,Welspun Enterprises Ltd,Unknown,,,3584.0,255.3,Other Building/Construction Materials,26.0,,,255.3,Added via NSE+Screener
+,Rashtriya Chemicals & Fertilizers Ltd,Unknown,,,16934.0,3108.43,Agri Chemicals and / or fertilizers,67.0,,,3108.43,Added via NSE+Screener
+,Redtape Ltd,Unknown,,,,,Textiles and Apparel,20.0,,,,Added via NSE+Screener
+,Sudarshan Chemical Industries Ltd,Unknown,,,2534.0,680.36,"Paints, Coating and Pipes",98.0,,,680.36,Added via NSE+Screener
+,Kalpataru Ltd,Mumbai,,,2222.0,779.22,Other Building/Construction Materials,128.0,,,779.22,Added via NSE+Screener
+,Quality Power Electrical Equipments Ltd,Unknown,,,152.0,40.39,Consumer Durables and Electronics,97.0,,,40.39,Added via NSE+Screener
+,Gujarat Narmada Valley Fertilizers & Chemicals Ltd,Unknown,,,7892.0,432.44,Agri Chemicals and / or fertilizers,20.0,,,432.44,Added via NSE+Screener
+,Gujarat State Fertilizers & Chemicals Ltd,Unknown,,,9534.0,548.53,Agri Chemicals and / or fertilizers,21.0,,,548.53,Added via NSE+Screener
+,Power Mech Projects Ltd,Unknown,,,5234.0,1462.65,Other Building/Construction Materials,102.0,,,1462.65,Added via NSE+Screener
+,Max Estates Ltd,Unknown,,,,,Other Building/Construction Materials,33.0,,,,Added via NSE+Screener
+,Gujarat Ambuja Exports Ltd,Unknown,,,4613.0,353.87,Agri Chemicals and / or fertilizers,28.0,,,353.87,Added via NSE+Screener
+,Kwality Walls India Ltd,Unknown,,,,,FMCG and Food Processing,,,,,Added via NSE+Screener
+,Sri Lotus Developers & Realty Ltd,Mumbai,,,,,Other Building/Construction Materials,136.0,,,,Added via NSE+Screener
+,Jai Balaji Industries Ltd,Unknown,,,6351.0,435.0,Other Building/Construction Materials,25.0,,,435.0,Added via NSE+Screener
+,Borosil Renewables Ltd,Unknown,,,1476.0,129.4,Other Building/Construction Materials,32.0,,,129.4,Added via NSE+Screener
+,Greenlam Industries Ltd,Unknown,,,2569.0,154.84,Other Building/Construction Materials,22.0,,,154.84,Added via NSE+Screener
+,Fujiyama Power Systems Ltd,Unknown,,,,,Consumer Durables and Electronics,41.0,,,,Added via NSE+Screener
+,Hindustan Foods Ltd,Unknown,,,3564.0,205.05,FMCG and Food Processing,21.0,,,205.05,Added via NSE+Screener
+,Mrs Bectors Food Specialities Ltd,Unknown,,,1874.0,133.49,FMCG and Food Processing,26.0,,,133.49,Added via NSE+Screener
+,Sheela Foam Ltd,Unknown,,,3439.0,348.61,Consumer Durables and Electronics,37.0,,,348.61,Added via NSE+Screener
+,KRN Heat Exchanger and Refrigeration Ltd,Unknown,,,431.0,93.28,Consumer Durables and Electronics,79.0,,,93.28,Added via NSE+Screener
+,Piccadily Agro Industries Ltd,Unknown,,,797.0,137.56,Agri Chemicals and / or fertilizers,63.0,,,137.56,Added via NSE+Screener
+,Precision Wires India Ltd,Unknown,,,,,Other Building/Construction Materials,58.0,,,,Added via NSE+Screener
+,Sapphire Foods India Ltd,Unknown,,,2882.0,39.48,FMCG and Food Processing,5.0,,,39.48,Added via NSE+Screener
+,MOIL Ltd,Unknown,,,1034.0,133.15,Other Building/Construction Materials,47.0,,,133.15,Added via NSE+Screener
+,Wakefit Innovations Ltd,Unknown,,,,,Consumer Durables and Electronics,2.0,,,,Added via NSE+Screener
+,Ganesh Housing Ltd,Unknown,,,959.0,344.19,Other Building/Construction Materials,131.0,,,344.19,Added via NSE+Screener
+,Shree Renuka Sugars Ltd,Unknown,,,10272.0,393.99,FMCG and Food Processing,14.0,,,393.99,Added via NSE+Screener
+,Ahluwalia Contracts (India) Ltd,Unknown,,,4099.0,786.11,Other Building/Construction Materials,70.0,,,786.11,Added via NSE+Screener
+,Keystone Realtors Ltd,Unknown,,,2004.0,82.36,Other Building/Construction Materials,15.0,,,82.36,Added via NSE+Screener
+,PNC Infratech Ltd,Unknown,,,5513.0,1721.87,Other Building/Construction Materials,114.0,,,1721.87,Added via NSE+Screener
+,Ceigall India Ltd,Unknown,,,3437.0,677.98,Other Building/Construction Materials,72.0,,,677.98,Added via NSE+Screener
+,Ashapura Minechem Ltd,Unknown,,,372.0,245.62,Other Building/Construction Materials,241.0,,,245.62,Added via NSE+Screener
+,Indo Count Industries Ltd,Unknown,,,4151.0,591.38,Other Building/Construction Materials,52.0,,,591.38,Added via NSE+Screener
+,Gokul Agro Resources Ltd,Unknown,,,17118.0,281.39,Agri Chemicals and / or fertilizers,6.0,,,281.39,Added via NSE+Screener
+,Bannari Amman Sugars Ltd,the southern part of Tamilnadu,,,1793.0,68.77,FMCG and Food Processing,14.0,,,68.77,Added via NSE+Screener
+,Technocraft Industries (India) Ltd,Unknown,,,2596.0,540.54,Other Building/Construction Materials,76.0,,,540.54,Added via NSE+Screener
+,Sunteck Realty Ltd,Unknown,,,808.0,57.56,Other Building/Construction Materials,26.0,,,57.56,Added via NSE+Screener
+,Raymond Lifestyle Ltd,Unknown,,,,,Other Building/Construction Materials,54.0,,,,Added via NSE+Screener
+,Surya Roshni Ltd,Unknown,,,7436.0,896.39,Other Building/Construction Materials,44.0,,,896.39,Added via NSE+Screener
+,Saatvik Green Energy Ltd,Unknown,,,,,Consumer Durables and Electronics,68.0,,,,Added via NSE+Screener
+,Electrosteel Castings Ltd,Unknown,,,7320.0,1484.05,Other Building/Construction Materials,74.0,,,1484.05,Added via NSE+Screener
+,Puravankara Ltd,Unknown,,,2014.0,463.5,Other Building/Construction Materials,84.0,,,463.5,Added via NSE+Screener
+,Bajaj Consumer Care Ltd,Unknown,,,943.0,72.34,FMCG and Food Processing,28.0,,,72.34,Added via NSE+Screener
+,Responsive Industries Ltd,Unknown,,,1418.0,582.74,Consumer Durables and Electronics,150.0,,,582.74,Added via NSE+Screener
+,Midwest Ltd,Unknown,,,,,Other Building/Construction Materials,140.0,,,,Added via NSE+Screener
+,GNG Electronics Ltd,Unknown,,,1411.0,65.72,Consumer Durables and Electronics,17.0,,,65.72,Added via NSE+Screener
+,Shilchar Technologies Ltd,Unknown,,,623.0,228.72,Consumer Durables and Electronics,134.0,,,228.72,Added via NSE+Screener
+,Kaveri Seed Company Ltd,Unknown,,,1202.0,92.21,Agri Chemicals and / or fertilizers,28.0,,,92.21,Added via NSE+Screener
+,Bansal Wire Industries Ltd,Unknown,,,,,Other Building/Construction Materials,50.0,,,,Added via NSE+Screener
+,Sterling & Wilson Renewable Energy Ltd,Unknown,,,6302.0,1260.4,Other Building/Construction Materials,73.0,,,1260.4,Added via NSE+Screener
+,Madhya Bharat Agro Products Ltd,Unknown,,,1058.0,255.08,Agri Chemicals and / or fertilizers,88.0,,,255.08,Added via NSE+Screener
+,Centum Electronics Ltd,Unknown,,,1155.0,306.95,Consumer Durables and Electronics,97.0,,,306.95,Added via NSE+Screener
+,Hindustan Construction Company Ltd,Unknown,,,5603.0,2394.71,Other Building/Construction Materials,156.0,,,2394.71,Added via NSE+Screener
+,AGI Infra Ltd,Unknown,,,325.0,1.78,Other Building/Construction Materials,2.0,,,1.78,Added via NSE+Screener
+,J Kumar Infraprojects Ltd,Unknown,,,5693.0,1481.74,Other Building/Construction Materials,95.0,,,1481.74,Added via NSE+Screener
+,Man Infraconstruction Ltd,Unknown,,,395.0,59.52,Other Building/Construction Materials,55.0,,,59.52,Added via NSE+Screener
+,Sunflag Iron & Steel Company Ltd,Unknown,,,3536.0,358.44,Other Building/Construction Materials,37.0,,,358.44,Added via NSE+Screener
+,Bosch Home Comfort India Ltd,Unknown,,,2756.0,422.84,Consumer Durables and Electronics,56.0,,,422.84,Added via NSE+Screener
+,Electronics Mart India Ltd,Unknown,,,6965.0,171.74,Consumer Durables and Electronics,9.0,,,171.74,Added via NSE+Screener
+,Goodluck India Ltd,Unknown,,,3936.0,506.83,Other Building/Construction Materials,47.0,,,506.83,Added via NSE+Screener
+,KNR Constructions Ltd,Unknown,,,4753.0,924.56,Other Building/Construction Materials,71.0,,,924.56,Added via NSE+Screener
+,National Fertilizer Ltd,Unknown,,,19798.0,3254.47,Agri Chemicals and / or fertilizers,60.0,,,3254.47,Added via NSE+Screener
+,Reliance Infrastructure Ltd,Unknown,,,24441.0,1540.12,Consumer Durables and Electronics,23.0,,,1540.12,Added via NSE+Screener
+,TruAlt Bioenergy Ltd,Unknown,,,,,Agri Chemicals and / or fertilizers,65.0,,,,Added via NSE+Screener
+,Vadilal Industries Ltd,Unknown,,,1011.0,113.56,FMCG and Food Processing,41.0,,,113.56,Added via NSE+Screener
+,Ramky Infrastructure Ltd,Unknown,,,1969.0,577.21,Other Building/Construction Materials,107.0,,,577.21,Added via NSE+Screener
+,Aeroflex Industries Ltd,Unknown,,,376.0,116.41,Other Building/Construction Materials,113.0,,,116.41,Added via NSE+Screener
+,GRM Overseas Ltd,Unknown,,,1347.0,479.75,Agri Chemicals and / or fertilizers,130.0,,,479.75,Added via NSE+Screener
+,Moschip Technologies Ltd,Unknown,,,467.0,88.28,Consumer Durables and Electronics,69.0,,,88.28,Added via NSE+Screener
+,H.G. Infra Engineering Ltd,Unknown,,,5056.0,664.9,Other Building/Construction Materials,48.0,,,664.9,Added via NSE+Screener
+,Optiemus Infracom Ltd,Unknown,,,592.0,285.46,Consumer Durables and Electronics,176.0,,,285.46,Added via NSE+Screener
+,Kolte Patil Developers Ltd,Unknown,,,1717.0,61.15,Other Building/Construction Materials,13.0,,,61.15,Added via NSE+Screener
+,Raghav Productivity Enhancers Ltd,Unknown,,,200.0,51.51,Other Building/Construction Materials,94.0,,,51.51,Added via NSE+Screener
+,Man Industries (India) Ltd,Unknown,,,3118.0,888.42,Other Building/Construction Materials,104.0,,,888.42,Added via NSE+Screener
+,GE Power India Ltd,Unknown,,,1047.0,1173.21,Consumer Durables and Electronics,409.0,,,1173.21,Added via NSE+Screener
+,Kalyani Steels Ltd,Unknown,,,1982.0,428.98,Other Building/Construction Materials,79.0,,,428.98,Added via NSE+Screener
+,Interarch Building Solutions Ltd,Unknown,,,1454.0,211.13,Other Building/Construction Materials,53.0,,,211.13,Added via NSE+Screener
+,Kewal Kiran Clothing Ltd,Unknown,,,840.0,234.74,Textiles and Apparel,102.0,,,234.74,Added via NSE+Screener
+,Ram Ratna Wires Ltd,Unknown,,,3677.0,392.88,Other Building/Construction Materials,39.0,,,392.88,Added via NSE+Screener
+,Hubtown Ltd,Unknown,,,408.0,302.93,Other Building/Construction Materials,271.0,,,302.93,Added via NSE+Screener
+,PSP Projects Ltd,Unknown,,,2512.0,529.93,Other Building/Construction Materials,77.0,,,529.93,Added via NSE+Screener
+,Pokarna Ltd,Unknown,,,925.0,185.0,Other Building/Construction Materials,73.0,,,185.0,Added via NSE+Screener
+,Sambhv Steel Tubes Ltd,Unknown,,,,,Other Building/Construction Materials,36.0,,,,Added via NSE+Screener
+,Marathon Nextgen Realty Ltd,Unknown,,,580.0,95.34,Other Building/Construction Materials,60.0,,,95.34,Added via NSE+Screener
+,Arvind SmartSpaces Ltd,Unknown,,,713.0,13.67,Other Building/Construction Materials,7.0,,,13.67,Added via NSE+Screener
+,Parag Milk Foods Ltd,Unknown,,,3432.0,263.28,FMCG and Food Processing,28.0,,,263.28,Added via NSE+Screener
+,Euro Pratik Sales Ltd,Unknown,,,,,Consumer Durables and Electronics,123.0,,,,Added via NSE+Screener
+,Bhagiradha Chemicals & Industries Ltd,Unknown,,,440.0,173.59,Agri Chemicals and / or fertilizers,144.0,,,173.59,Added via NSE+Screener
+,Jubilant Agri & Consumer Products Ltd,Unknown,,,,,Agri Chemicals and / or fertilizers,68.0,,,,Added via NSE+Screener
+,Ravindra Energy Ltd,Unknown,,,250.0,17.12,Consumer Durables and Electronics,25.0,,,17.12,Added via NSE+Screener
+,Marine Electricals (India) Ltd,Unknown,,,701.0,288.08,Consumer Durables and Electronics,150.0,,,288.08,Added via NSE+Screener
+,Shivalik Bimetal Controls Ltd,Unknown,,,508.0,111.34,Other Building/Construction Materials,80.0,,,111.34,Added via NSE+Screener
+,Raymond Realty Ltd,Unknown,,,,,Other Building/Construction Materials,0.0,,,,Added via NSE+Screener
+,Dalmia Bharat Sugar & Industries Ltd,Unknown,,,3746.0,133.42,FMCG and Food Processing,13.0,,,133.42,Added via NSE+Screener
+,Globus Spirits Ltd,Unknown,,,2536.0,319.61,FMCG and Food Processing,46.0,,,319.61,Added via NSE+Screener
+,Patel Engineering Ltd,Unknown,,,5093.0,753.48,Other Building/Construction Materials,54.0,,,753.48,Added via NSE+Screener
+,Marsons Ltd,Unknown,,,168.0,68.12,Consumer Durables and Electronics,148.0,,,68.12,Added via NSE+Screener
+,Sundrop Brands Ltd,Unknown,,,793.0,63.01,FMCG and Food Processing,29.0,,,63.01,Added via NSE+Screener
+,Vardhman Special Steels Ltd,Unknown,,,1764.0,260.98,Other Building/Construction Materials,54.0,,,260.98,Added via NSE+Screener
+,Kiri Industries Ltd,Unknown,,,740.0,109.48,"Paints, Coating and Pipes",54.0,,,109.48,Added via NSE+Screener
+,Rashi Peripherals Ltd,Unknown,,,13773.0,1811.24,Consumer Durables and Electronics,48.0,,,1811.24,Added via NSE+Screener
+,Ajmera Realty & Infra India Ltd,Unknown,,,738.0,315.42,Other Building/Construction Materials,156.0,,,315.42,Added via NSE+Screener
+,Ramco Industries Ltd,Unknown,,,1659.0,99.99,Other Building/Construction Materials,22.0,,,99.99,Added via NSE+Screener
+,Websol Energy System Ltd,Unknown,,,,,Consumer Durables and Electronics,,,,,Added via NSE+Screener
+,Mangalam Cement Ltd,Unknown,,,1681.0,41.45,Other Building/Construction Materials,9.0,,,41.45,Added via NSE+Screener
+,G M Breweries Ltd,Unknown,,,637.0,3.49,FMCG and Food Processing,2.0,,,3.49,Added via NSE+Screener
+,Carysil Ltd,Unknown,,,420.0,87.45,Consumer Durables and Electronics,76.0,,,87.45,Added via NSE+Screener
+,Spectrum Electrical Industries Ltd,Unknown,,,402.0,115.64,Consumer Durables and Electronics,105.0,,,115.64,Added via NSE+Screener
+,Mayur Uniquoters Ltd,Unknown,,,880.0,183.23,Textiles and Apparel,76.0,,,183.23,Added via NSE+Screener
+,Eveready Industries India Ltd,Unknown,,,1345.0,103.18,FMCG and Food Processing,28.0,,,103.18,Added via NSE+Screener
+,Siyaram Silk Mills Ltd,Unknown,,,2220.0,523.07,Other Building/Construction Materials,86.0,,,523.07,Added via NSE+Screener
+,Orissa Minerals Development Company Ltd,Unknown,,,65.0,0.0,Other Building/Construction Materials,0.0,,,0.0,Added via NSE+Screener
+,BGR Energy Systems Ltd,Unknown,,,451.0,357.09,Other Building/Construction Materials,289.0,,,357.09,Added via NSE+Screener
+,Bombay Dyeing & Manufacturing Company Ltd,Unknown,,,1605.0,43.97,Other Building/Construction Materials,10.0,,,43.97,Added via NSE+Screener
+,Prakash Industries Ltd,Unknown,,,,,Other Building/Construction Materials,12.0,,,,Added via NSE+Screener
+,Protean eGov Technologies Ltd,Unknown,,,841.0,145.16,FMCG and Food Processing,63.0,,,145.16,Added via NSE+Screener
+,GK Energy Ltd,Unknown,,,,,Other Building/Construction Materials,120.0,,,,Added via NSE+Screener
+,Bhansali Engineering Polymers Ltd,Unknown,,,1398.0,256.62,"Paints, Coating and Pipes",67.0,,,256.62,Added via NSE+Screener
+,Alembic Ltd,Unknown,,,222.0,29.8,Other Building/Construction Materials,49.0,,,29.8,Added via NSE+Screener
+,Universal Cables Ltd,Unknown,,,2407.0,910.04,Other Building/Construction Materials,138.0,,,910.04,Added via NSE+Screener
+,Insolation Energy Ltd,Jaipur,,,,,Consumer Durables and Electronics,30.0,,,,Added via NSE+Screener
+,Rhetan TMT Ltd,Unknown,,,37.16,22.83,Other Building/Construction Materials,224.25,,,22.83,Added via NSE+Screener
+,JTL Industries Ltd,Unknown,,,1915.0,278.07,Other Building/Construction Materials,53.0,,,278.07,Added via NSE+Screener
+,Venus Pipes & Tubes Ltd,Unknown,,,959.0,191.8,"Paints, Coating and Pipes",73.0,,,191.8,Added via NSE+Screener
+,Bajaj Hindusthan Sugar Ltd,Unknown,,,5575.0,106.92,FMCG and Food Processing,7.0,,,106.92,Added via NSE+Screener
+,Arkade Developers Ltd,Unknown,,,683.0,35.55,Other Building/Construction Materials,19.0,,,35.55,Added via NSE+Screener
+,Rajratan Global Wire Ltd,Unknown,,,935.0,181.88,Other Building/Construction Materials,71.0,,,181.88,Added via NSE+Screener
+,Bajel Projects Ltd,Unknown,,,,,Consumer Durables and Electronics,136.0,,,,Added via NSE+Screener
+,Wonder Electricals Ltd,Unknown,,,894.0,274.32,Consumer Durables and Electronics,112.0,,,274.32,Added via NSE+Screener
+,Asian Granito India Ltd,Unknown,,,1559.0,508.28,Other Building/Construction Materials,119.0,,,508.28,Added via NSE+Screener
+,Team Lease Services Ltd,Unknown,,,10236.0,336.53,FMCG and Food Processing,12.0,,,336.53,Added via NSE+Screener
+,K C P Ltd,Unknown,,,2529.0,187.08,Other Building/Construction Materials,27.0,,,187.08,Added via NSE+Screener
+,Vintage Coffee & Beverages Ltd,Unknown,,,113.0,12.38,FMCG and Food Processing,40.0,,,12.38,Added via NSE+Screener
+,Hathway Cable & Datacom Ltd,Unknown,,,2040.0,251.51,Other Building/Construction Materials,45.0,,,251.51,Added via NSE+Screener
+,MSP Steel & Power Ltd,Unknown,,,2905.0,71.63,Other Building/Construction Materials,9.0,,,71.63,Added via NSE+Screener
+,India Nippon Electricals Ltd,Unknown,,,845.0,169.0,Consumer Durables and Electronics,73.0,,,169.0,Added via NSE+Screener
+,Advait Energy Transitions Limited,Gujarat,,,295.0,78.4,Consumer Durables and Electronics,97.0,,,78.4,Added via NSE+Screener
+,Hindware Home Innovation Ltd,Unknown,,,352.0,90.65,Other Building/Construction Materials,94.0,,,90.65,Added via NSE+Screener
+,Sumeet Industries Ltd,Unknown,,,1003.0,85.19,Other Building/Construction Materials,31.0,,,85.19,Added via NSE+Screener
+,Seshasayee Paper & Boards Ltd,Unknown,,,1754.0,148.97,Other Building/Construction Materials,31.0,,,148.97,Added via NSE+Screener
+,Vikran Engineering Ltd,Unknown,,,916.0,634.93,Other Building/Construction Materials,253.0,,,634.93,Added via NSE+Screener
+,Pashupati Cotspin Ltd,Unknown,,,,,Other Building/Construction Materials,30.0,,,,Added via NSE+Screener
+,Hi-Tech Pipes Ltd,Unknown,,,3068.0,302.6,"Paints, Coating and Pipes",36.0,,,302.6,Added via NSE+Screener
+,Capacite Infraprojects Ltd,Unknown,,,2189.0,1043.52,Other Building/Construction Materials,174.0,,,1043.52,Added via NSE+Screener
+,Vidhi Specialty Food Ingredients Ltd,Unknown,,,382.0,128.73,FMCG and Food Processing,123.0,,,128.73,Added via NSE+Screener
+,Sanstar Ltd,Unknown,,,953.0,101.83,Agri Chemicals and / or fertilizers,39.0,,,101.83,Added via NSE+Screener
+,Som Distilleries & Breweries Ltd,Unknown,,,794.0,145.75,FMCG and Food Processing,67.0,,,145.75,Added via NSE+Screener
+,Godavari Biorefineries Ltd,Unknown,,,1870.0,138.33,FMCG and Food Processing,27.0,,,138.33,Added via NSE+Screener
+,Mahamaya Steel Industries Ltd,Unknown,,,802.0,24.17,Other Building/Construction Materials,11.0,,,24.17,Added via NSE+Screener
+,Servotech Renewable Power System Ltd,Unknown,,,674.0,145.88,Consumer Durables and Electronics,79.0,,,145.88,Added via NSE+Screener
+,Rishabh Instruments Ltd,Unknown,,,720.0,134.14,Consumer Durables and Electronics,68.0,,,134.14,Added via NSE+Screener
+,Garuda Construction and Engineering Ltd,Unknown,,,,,Other Building/Construction Materials,275.0,,,,Added via NSE+Screener
+,D-Link India Ltd,Unknown,,,1384.0,364.01,Consumer Durables and Electronics,96.0,,,364.01,Added via NSE+Screener
+,TIL Ltd,Unknown,,,315.0,134.63,Other Building/Construction Materials,156.0,,,134.63,Added via NSE+Screener
+,Sportking India Ltd,Unknown,,,2524.0,456.39,Other Building/Construction Materials,66.0,,,456.39,Added via NSE+Screener
+,NELCO Ltd,Unknown,,,305.0,106.96,Consumer Durables and Electronics,128.0,,,106.96,Added via NSE+Screener
+,Indosolar Ltd,Unknown,,,324.0,4.44,Consumer Durables and Electronics,5.0,,,4.44,Added via NSE+Screener
+,Associated Alcohols & Breweries Ltd,Unknown,,,1075.0,38.29,FMCG and Food Processing,13.0,,,38.29,Added via NSE+Screener
+,Solarworld Energy Solutions Ltd,Unknown,,,,,Other Building/Construction Materials,97.0,,,,Added via NSE+Screener
+,Indo Tech Transformers Ltd,Unknown,,,612.0,122.4,Consumer Durables and Electronics,73.0,,,122.4,Added via NSE+Screener
+,Go Fashion (India) Ltd,Unknown,,,848.0,106.87,Textiles and Apparel,46.0,,,106.87,Added via NSE+Screener
+,SPML Infra Ltd,Unknown,,,771.0,395.01,Other Building/Construction Materials,187.0,,,395.01,Added via NSE+Screener
+,Dynamic Cables Ltd,Unknown,,,1025.0,235.89,Other Building/Construction Materials,84.0,,,235.89,Added via NSE+Screener
+,Simplex Infrastructures Ltd,Unknown,,,1076.0,648.55,Other Building/Construction Materials,220.0,,,648.55,Added via NSE+Screener
+,Sula Vineyards Ltd,Unknown,,,579.0,234.77,FMCG and Food Processing,148.0,,,234.77,Added via NSE+Screener
+,Punjab Chemicals & Crop Protection Ltd,Unknown,,,901.0,234.51,Agri Chemicals and / or fertilizers,95.0,,,234.51,Added via NSE+Screener
+,Omaxe Ltd,Unknown,,,1561.0,312.2,Other Building/Construction Materials,73.0,,,312.2,Added via NSE+Screener
+,ICE Make Refrigeration Ltd,Unknown,,,480.0,94.68,Consumer Durables and Electronics,72.0,,,94.68,Added via NSE+Screener
+,GPT Infraprojects Ltd,Unknown,,,1159.0,82.56,Other Building/Construction Materials,26.0,,,82.56,Added via NSE+Screener
+,Jyoti Structures Ltd,Unknown,,,498.0,2137.99,Consumer Durables and Electronics,1567.0,,,2137.99,Added via NSE+Screener
+,Ivalue Infosolutions Ltd,Unknown,,,923.0,826.91,Consumer Durables and Electronics,327.0,,,826.91,Added via NSE+Screener
+,Southern Petrochemicals Industries Corporation Ltd,Unknown,,,3086.0,8.45,Agri Chemicals and / or fertilizers,1.0,,,8.45,Added via NSE+Screener
+,HMA Agro Industries Ltd,Unknown,,,5133.0,154.69,Agri Chemicals and / or fertilizers,11.0,,,154.69,Added via NSE+Screener
+,Manaksia Coated Metals & Industries Ltd,Unknown,,,782.0,49.28,Other Building/Construction Materials,23.0,,,49.28,Added via NSE+Screener
+,Exicom Tele-Systems Ltd,Unknown,,,868.0,332.93,Consumer Durables and Electronics,140.0,,,332.93,Added via NSE+Screener
+,Chamanlal Setia Exports Ltd,Unknown,,,1495.0,229.37,Agri Chemicals and / or fertilizers,56.0,,,229.37,Added via NSE+Screener
+,Quadrant Future Tek Ltd,Unknown,,,150.0,55.07,Other Building/Construction Materials,134.0,,,55.07,Added via NSE+Screener
+,Shriram Properties Ltd,Unknown,,,823.0,94.7,Other Building/Construction Materials,42.0,,,94.7,Added via NSE+Screener
+,Raj Rayon Industries Ltd,Unknown,,,849.0,27.91,Other Building/Construction Materials,12.0,,,27.91,Added via NSE+Screener
+,Vidya Wires Ltd,Unknown,,,,,Other Building/Construction Materials,35.0,,,,Added via NSE+Screener
+,Unitech Ltd,Unknown,,,322.0,601.65,Other Building/Construction Materials,682.0,,,601.65,Added via NSE+Screener
+,Le Merite Exports Ltd,Unknown,,,,,Other Building/Construction Materials,88.0,,,,Added via NSE+Screener
+,B.L.Kashyap & Sons Ltd,Unknown,,,1142.0,431.77,Other Building/Construction Materials,138.0,,,431.77,Added via NSE+Screener
+,A B Infrabuild Ltd,Unknown,,,208.0,50.15,Other Building/Construction Materials,88.0,,,50.15,Added via NSE+Screener
+,TVS Electronics Ltd,Unknown,,,,,Consumer Durables and Electronics,3.0,,,,Added via NSE+Screener
+,Butterfly Gandhimathi Appliances Ltd,Unknown,,,864.0,80.48,Consumer Durables and Electronics,34.0,,,80.48,Added via NSE+Screener
+,3B Blackbio DX Ltd,Unknown,,,96.0,36.3,Consumer Durables and Electronics,138.0,,,36.3,Added via NSE+Screener
+,AYM Syntex Ltd,Unknown,,,1489.0,130.54,Other Building/Construction Materials,32.0,,,130.54,Added via NSE+Screener
+,Bharat Wire Ropes Ltd,Unknown,,,619.0,86.49,Other Building/Construction Materials,51.0,,,86.49,Added via NSE+Screener
+,IFGL Refractories Ltd,Unknown,,,1653.0,357.77,Other Building/Construction Materials,79.0,,,357.77,Added via NSE+Screener
+,Monte Carlo Fashions Ltd,Unknown,,,1100.0,415.89,Textiles and Apparel,138.0,,,415.89,Added via NSE+Screener
+,Faze Three Ltd,Unknown,,,690.0,90.74,Other Building/Construction Materials,48.0,,,90.74,Added via NSE+Screener
+,Borana Weaves Ltd,Surat,,,,,Other Building/Construction Materials,27.0,,,,Added via NSE+Screener
+,Gandhi Special Tubes Ltd,Unknown,,,173.0,22.28,Other Building/Construction Materials,47.0,,,22.28,Added via NSE+Screener
+,Control Print Ltd,Unknown,,,425.0,91.99,Consumer Durables and Electronics,79.0,,,91.99,Added via NSE+Screener
+,Paramount Communications Ltd,Unknown,,,1555.0,200.23,Other Building/Construction Materials,47.0,,,200.23,Added via NSE+Screener
+,Salzer Electronics Ltd,Unknown,,,1418.0,404.03,Consumer Durables and Electronics,104.0,,,404.03,Added via NSE+Screener
+,Suraj Estate Developers Ltd,Unknown,,,507.0,47.23,Other Building/Construction Materials,34.0,,,47.23,Added via NSE+Screener
+,Gulshan Polyols Ltd,Unknown,,,2020.0,182.63,Agri Chemicals and / or fertilizers,33.0,,,182.63,Added via NSE+Screener
+,Solex Energy Ltd,Unknown,,,,,Consumer Durables and Electronics,62.0,,,,Added via NSE+Screener
+,Hariom Pipe Industries Ltd,Unknown,,,,,"Paints, Coating and Pipes",46.0,,,,Added via NSE+Screener
+,BirlaNu Ltd,Hyderabad,,,3615.0,198.08,Consumer Durables and Electronics,20.0,,,198.08,Added via NSE+Screener
+,Steel Exchange India Ltd,Unknown,,,,,Other Building/Construction Materials,17.0,,,,Added via NSE+Screener
+,Andhra Sugars Ltd,Unknown,,,2020.0,193.7,FMCG and Food Processing,35.0,,,193.7,Added via NSE+Screener
+,Bhartiya International Ltd,Unknown,,,857.0,138.53,Textiles and Apparel,59.0,,,138.53,Added via NSE+Screener
+,Ratnaveer Precision Engineering Ltd,Unknown,,,892.0,65.98,Other Building/Construction Materials,27.0,,,65.98,Added via NSE+Screener
+,SEPC Ltd,Unknown,,,598.0,368.63,Other Building/Construction Materials,225.0,,,368.63,Added via NSE+Screener
+,Shree Pushkar Chemicals & Fertilizers Ltd,Unknown,,,806.0,174.45,"Paints, Coating and Pipes",79.0,,,174.45,Added via NSE+Screener
+,IKIO Technologies Ltd,Unknown,,,486.0,113.18,Consumer Durables and Electronics,85.0,,,113.18,Added via NSE+Screener
+,Deccan Cements Ltd,Unknown,,,,,Other Building/Construction Materials,40.0,,,,Added via NSE+Screener
+,R&B Denims Ltd,Unknown,,,367.0,63.35,Other Building/Construction Materials,63.0,,,63.35,Added via NSE+Screener
+,Borosil Scientific Ltd,Unknown,,,,,Other Building/Construction Materials,59.0,,,,Added via NSE+Screener
+,Arihant Superstructures Ltd,Unknown,,,499.0,113.47,Other Building/Construction Materials,83.0,,,113.47,Added via NSE+Screener
+,Shree Digvijay Cement Co. Ltd,Unknown,,,725.0,17.88,Other Building/Construction Materials,9.0,,,17.88,Added via NSE+Screener
+,AB Cotspin India Ltd,Unknown,,,,,Other Building/Construction Materials,59.0,,,,Added via NSE+Screener
+,Rama Steel Tubes Ltd,Unknown,,,1048.0,244.05,Other Building/Construction Materials,85.0,,,244.05,Added via NSE+Screener
+,SRM Contractors Ltd,Unknown,,,527.0,38.98,Other Building/Construction Materials,27.0,,,38.98,Added via NSE+Screener
+,AVT Natural Products Ltd,Unknown,,,556.0,156.9,Agri Chemicals and / or fertilizers,103.0,,,156.9,Added via NSE+Screener
+,Century Enka Ltd,Unknown,,,,,Other Building/Construction Materials,32.0,,,,Added via NSE+Screener
+,Bombay Super Hybrid Seeds Ltd,Unknown,,,358.0,6.87,Agri Chemicals and / or fertilizers,7.0,,,6.87,Added via NSE+Screener
+,Hardwyn India Ltd,Unknown,,,,,Consumer Durables and Electronics,85.0,,,,Added via NSE+Screener
+,Stanley Lifestyles Ltd,Unknown,,,426.0,24.51,Consumer Durables and Electronics,21.0,,,24.51,Added via NSE+Screener
+,Regaal Resources Ltd,Unknown,,,915.0,137.88,Agri Chemicals and / or fertilizers,55.0,,,137.88,Added via NSE+Screener
+,Zuari Agro Chemicals Ltd,Unknown,,,48.0,6.97,Agri Chemicals and / or fertilizers,53.0,,,6.97,Added via NSE+Screener
+,Indo Rama Synthetics (India) Ltd,Unknown,,,4259.0,163.36,Other Building/Construction Materials,14.0,,,163.36,Added via NSE+Screener
+,Krishival Foods Ltd,Unknown,,,202.0,22.69,FMCG and Food Processing,41.0,,,22.69,Added via NSE+Screener
+,Om Infra Ltd,Unknown,,,713.0,285.2,Other Building/Construction Materials,146.0,,,285.2,Added via NSE+Screener
+,Avadh Sugar & Energy Ltd,Unknown,,,2636.0,57.78,FMCG and Food Processing,8.0,,,57.78,Added via NSE+Screener
+,Eldeco Housing & Industries Ltd,Unknown,,,133.0,1.46,Other Building/Construction Materials,4.0,,,1.46,Added via NSE+Screener
+,United Foodbrands Ltd,Unknown,,,1233.0,3.38,FMCG and Food Processing,1.0,,,3.38,Added via NSE+Screener
+,Swelect Energy Systems Ltd,Unknown,,,622.0,64.76,Consumer Durables and Electronics,38.0,,,64.76,Added via NSE+Screener
+,Arisinfra Solutions Ltd,Unknown,,,,,Other Building/Construction Materials,155.0,,,,Added via NSE+Screener
+,Mangalam Worldwide Ltd,Unknown,,,1060.0,168.44,Other Building/Construction Materials,58.0,,,168.44,Added via NSE+Screener
+,BCL Industries Ltd,Unknown,,,1971.0,91.8,FMCG and Food Processing,17.0,,,91.8,Added via NSE+Screener
+,Electrotherm (India) Ltd,Unknown,,,4115.0,259.3,Other Building/Construction Materials,23.0,,,259.3,Added via NSE+Screener
+,Tembo Global Industries Ltd,Unknown,,,743.0,120.1,Other Building/Construction Materials,59.0,,,120.1,Added via NSE+Screener
+,MIC Electronics Ltd,Unknown,,,61.73,51.05,Consumer Durables and Electronics,301.85,,,51.05,Added via NSE+Screener
+,Aeroflex Enterprises Ltd,Unknown,,,578.0,190.03,Other Building/Construction Materials,120.0,,,190.03,Added via NSE+Screener
+,NCL Industries Ltd,Unknown,,,1799.0,138.01,Other Building/Construction Materials,28.0,,,138.01,Added via NSE+Screener
+,Ambika Cotton Mills Ltd,Unknown,,,702.0,25.0,Other Building/Construction Materials,13.0,,,25.0,Added via NSE+Screener
+,Dhampur Sugar Mills Ltd,Unknown,,,1957.0,150.13,FMCG and Food Processing,28.0,,,150.13,Added via NSE+Screener
+,Prostarm Info Systems Ltd,Unknown,,,346.0,107.12,Consumer Durables and Electronics,113.0,,,107.12,Added via NSE+Screener
+,Sudarshan Colorants India Ltd,Unknown,,,,,"Paints, Coating and Pipes",51.0,,,,Added via NSE+Screener
+,Uttam Sugar Mills Ltd,Unknown,,,,,FMCG and Food Processing,13.0,,,,Added via NSE+Screener
+,Vascon Engineers Ltd,Unknown,,,1077.0,212.45,Other Building/Construction Materials,72.0,,,212.45,Added via NSE+Screener
+,GHCL Textiles Ltd,Unknown,,,1161.0,117.69,Other Building/Construction Materials,37.0,,,117.69,Added via NSE+Screener
+,Scoda Tubes Ltd,Unknown,,,,,Other Building/Construction Materials,76.0,,,,Added via NSE+Screener
+,BIGBLOC Construction Ltd,Unknown,,,224.0,65.05,Other Building/Construction Materials,106.0,,,65.05,Added via NSE+Screener
+,Zuari Industries Ltd,Unknown,,,970.0,63.78,FMCG and Food Processing,24.0,,,63.78,Added via NSE+Screener
+,Nahar Spinning Mills Ltd,Unknown,,,3285.0,621.0,Other Building/Construction Materials,69.0,,,621.0,Added via NSE+Screener
+,Heranba Industries Ltd,Unknown,,,,,Agri Chemicals and / or fertilizers,144.0,,,,Added via NSE+Screener
+,Dwarikesh Sugar Industries Ltd,Unknown,,,1359.0,63.3,FMCG and Food Processing,17.0,,,63.3,Added via NSE+Screener
+,Ruby Mills Ltd,Unknown,,,,,Other Building/Construction Materials,,,,,Added via NSE+Screener
+,Prozone Realty Ltd,Unknown,,,179.0,12.26,Other Building/Construction Materials,25.0,,,12.26,Added via NSE+Screener
+,Consolidated Construction Consortium Ltd,Unknown,,,182.0,42.88,Other Building/Construction Materials,86.0,,,42.88,Added via NSE+Screener
+,Dhampur Bio Organics Ltd,Unknown,,,1862.0,56.12,FMCG and Food Processing,11.0,,,56.12,Added via NSE+Screener
+,Saurashtra Cement Ltd,Unknown,,,1538.0,101.13,Other Building/Construction Materials,24.0,,,101.13,Added via NSE+Screener
+,Mangal Electrical Industries Ltd,Unknown,,,549.0,129.35,Consumer Durables and Electronics,86.0,,,129.35,Added via NSE+Screener
+,Ganesh Consumer Products Ltd,Kolkata,,,850.0,9.32,FMCG and Food Processing,4.0,,,9.32,Added via NSE+Screener
+,IFB Agro Industries Ltd,Unknown,,,1059.0,92.84,Agri Chemicals and / or fertilizers,32.0,,,92.84,Added via NSE+Screener
+,Sarla Performance Fibers Ltd,Unknown,,,422.0,93.65,Other Building/Construction Materials,81.0,,,93.65,Added via NSE+Screener
+,Advance Agrolife Ltd,Unknown,,,,,Agri Chemicals and / or fertilizers,120.0,,,,Added via NSE+Screener
+,PVP Ventures Ltd,Unknown,,,16.86,0.03,Other Building/Construction Materials,0.65,,,0.03,Added via NSE+Screener
+,Supreme Infrastructure India Ltd,Unknown,,,66.0,829.25,Other Building/Construction Materials,4586.0,,,829.25,Added via NSE+Screener
+,Jaiprakash Associates Ltd,Unknown,,,5796.0,1222.72,Other Building/Construction Materials,77.0,,,1222.72,Added via NSE+Screener
+,DCM Shriram International Ltd,Unknown,,,,,Other Building/Construction Materials,,,,,Added via NSE+Screener
+,Kamdhenu Ltd,Unknown,,,,,Other Building/Construction Materials,86.0,,,,Added via NSE+Screener
+,Bhageria Industries Ltd,Unknown,,,595.0,187.47,"Paints, Coating and Pipes",115.0,,,187.47,Added via NSE+Screener
+,Magadh Sugar & Energy Ltd,Unknown,,,1322.0,21.73,FMCG and Food Processing,6.0,,,21.73,Added via NSE+Screener
+,Precot Ltd,Unknown,,,868.0,114.15,Other Building/Construction Materials,48.0,,,114.15,Added via NSE+Screener
+,United Polyfab Gujarat Ltd,Unknown,,,602.0,97.31,Other Building/Construction Materials,59.0,,,97.31,Added via NSE+Screener
+,Modis Navnirman Ltd,Unknown,,,,,Other Building/Construction Materials,4.53,,,,Added via NSE+Screener
+,Sejal Glass Ltd,Unknown,,,244.0,101.61,Other Building/Construction Materials,152.0,,,101.61,Added via NSE+Screener
+,Euro India Fresh Foods Ltd,Unknown,,,144.0,16.96,FMCG and Food Processing,43.0,,,16.96,Added via NSE+Screener
+,Everest Industries Ltd,Unknown,,,1723.0,155.78,Other Building/Construction Materials,33.0,,,155.78,Added via NSE+Screener
+,Likhitha Infrastructure Ltd,Unknown,,,520.0,95.45,Other Building/Construction Materials,67.0,,,95.45,Added via NSE+Screener
+,Oswal Agro Mills Ltd,Unknown,,,162.0,0.0,Agri Chemicals and / or fertilizers,0.0,,,0.0,Added via NSE+Screener
+,Bodal Chemicals Ltd,Unknown,,,1723.0,396.53,"Paints, Coating and Pipes",84.0,,,396.53,Added via NSE+Screener
+,Universus Photo Imagings Ltd,Unknown,,,25.0,1.23,Consumer Durables and Electronics,18.0,,,1.23,Added via NSE+Screener
+,Geecee Ventures Ltd,Unknown,,,135.0,4.81,Other Building/Construction Materials,13.0,,,4.81,Added via NSE+Screener
+,Iris Clothings Ltd,Unknown,,,144.0,52.87,Textiles and Apparel,134.0,,,52.87,Added via NSE+Screener
+,20 Microns Ltd,Unknown,,,795.0,126.33,Other Building/Construction Materials,58.0,,,126.33,Added via NSE+Screener
+,Davangere Sugar Company Ltd,Unknown,,,215.0,28.86,FMCG and Food Processing,49.0,,,28.86,Added via NSE+Screener
+,Kirloskar Electric Company Ltd,Unknown,,,544.0,58.13,Consumer Durables and Electronics,39.0,,,58.13,Added via NSE+Screener
+,Coffee Day Enterprises Ltd,Unknown,,,1159.0,60.33,FMCG and Food Processing,19.0,,,60.33,Added via NSE+Screener
+,Nila Spaces Ltd,Unknown,,,136.0,1.12,Other Building/Construction Materials,3.0,,,1.12,Added via NSE+Screener
+,Peninsula Land Ltd,Unknown,,,252.0,11.74,Other Building/Construction Materials,17.0,,,11.74,Added via NSE+Screener
+,Jayant Agro Organics Ltd,Unknown,,,2528.0,242.41,Agri Chemicals and / or fertilizers,35.0,,,242.41,Added via NSE+Screener
+,Visaka Industries Ltd,Unknown,,,1543.0,190.23,Other Building/Construction Materials,45.0,,,190.23,Added via NSE+Screener
+,Sukhjit Starch & Chemicals Ltd,Unknown,,,1498.0,114.92,Agri Chemicals and / or fertilizers,28.0,,,114.92,Added via NSE+Screener
+,Khaitan Chemicals & Fertilizers Ltd,Unknown,,,720.0,72.99,Agri Chemicals and / or fertilizers,37.0,,,72.99,Added via NSE+Screener
+,Sutlej Textiles and Industries Ltd,Unknown,,,2677.0,344.71,Other Building/Construction Materials,47.0,,,344.71,Added via NSE+Screener
+,Pansari Developers Ltd,Unknown,,,36.0,0.2,Other Building/Construction Materials,2.0,,,0.2,Added via NSE+Screener
+,Andhra Cements Ltd,Unknown,,,274.0,30.03,Other Building/Construction Materials,40.0,,,30.03,Added via NSE+Screener
+,Urja Global Ltd,Unknown,,,67.25,22.77,Consumer Durables and Electronics,123.58,,,22.77,Added via NSE+Screener
+,Focus Lighting & Fixtures Ltd,Unknown,,,183.0,69.19,Consumer Durables and Electronics,138.0,,,69.19,Added via NSE+Screener
+,Vishnu Prakash R Punglia Ltd,Unknown,,,1237.0,735.42,Other Building/Construction Materials,217.0,,,735.42,Added via NSE+Screener
+,W S Industries (India) Ltd,Unknown,,,239.0,73.99,Other Building/Construction Materials,113.0,,,73.99,Added via NSE+Screener
+,Artemis Electricals & Projects Ltd,Unknown,,,,,Consumer Durables and Electronics,121.33,,,,Added via NSE+Screener
+,Suratwwala Business Group Ltd,Unknown,,,,,Other Building/Construction Materials,43.0,,,,Added via NSE+Screener
+,Liberty Shoes Ltd,Unknown,,,675.0,116.51,Textiles and Apparel,63.0,,,116.51,Added via NSE+Screener
+,Prakash Pipes Ltd,Unknown,,,780.0,87.62,"Paints, Coating and Pipes",41.0,,,87.62,Added via NSE+Screener
+,KN Agri Resources Ltd,Unknown,,,,,Agri Chemicals and / or fertilizers,11.0,,,,Added via NSE+Screener
+,S & S Power Switchgear Ltd,Unknown,,,186.0,44.84,Consumer Durables and Electronics,88.0,,,44.84,Added via NSE+Screener
+,Donear Industries Ltd,Unknown,,,,,Other Building/Construction Materials,85.0,,,,Added via NSE+Screener
+,GVK Power & Infrastructure Ltd,Unknown,,,802.0,30.76,Other Building/Construction Materials,14.0,,,30.76,Added via NSE+Screener
+,DCM Shriram Industries Ltd,Unknown,,,2052.0,241.74,FMCG and Food Processing,43.0,,,241.74,Added via NSE+Screener
+,Sreeleathers Ltd,Unknown,,,217.0,0.59,Textiles and Apparel,1.0,,,0.59,Added via NSE+Screener
+,Orient Ceratech Ltd,Unknown,,,327.0,77.05,Other Building/Construction Materials,86.0,,,77.05,Added via NSE+Screener
+,Mirza International Ltd,Unknown,,,570.0,59.34,Textiles and Apparel,38.0,,,59.34,Added via NSE+Screener
+,Shah Metacorp Ltd,Unknown,,,176.0,131.16,Other Building/Construction Materials,272.0,,,131.16,Added via NSE+Screener
+,Orbit Exports Ltd,Unknown,,,218.0,32.25,Other Building/Construction Materials,54.0,,,32.25,Added via NSE+Screener
+,Ugar Sugar Works Ltd,Unknown,,,1794.0,186.77,FMCG and Food Processing,38.0,,,186.77,Added via NSE+Screener
+,Twamev Construction & Infrastructure Ltd,Unknown,,,85.0,44.95,Other Building/Construction Materials,193.0,,,44.95,Added via NSE+Screener
+,Gokul Refoils and Solvent Ltd,Unknown,,,3510.0,163.48,FMCG and Food Processing,17.0,,,163.48,Added via NSE+Screener
+,HCL Infosystems Ltd,Unknown,,,3.0,0.67,Consumer Durables and Electronics,82.0,,,0.67,Added via NSE+Screener
+,Foods & Inns Ltd,Unknown,,,992.0,214.71,FMCG and Food Processing,79.0,,,214.71,Added via NSE+Screener
+,Nahar Industrial Enterprises Ltd,Unknown,,,1530.0,188.63,Other Building/Construction Materials,45.0,,,188.63,Added via NSE+Screener
+,Sarveshwar Foods Ltd,Unknown,,,1134.0,248.55,Agri Chemicals and / or fertilizers,80.0,,,248.55,Added via NSE+Screener
+,Bedmutha Industries Ltd,Unknown,,,1049.0,140.82,Other Building/Construction Materials,49.0,,,140.82,Added via NSE+Screener
+,Suraj Ltd,Unknown,,,234.0,32.7,Other Building/Construction Materials,51.0,,,32.7,Added via NSE+Screener
+,Modison Ltd,Unknown,,,490.0,85.92,Consumer Durables and Electronics,64.0,,,85.92,Added via NSE+Screener
+,Rama Phosphates Ltd,Unknown,,,744.0,61.15,Agri Chemicals and / or fertilizers,30.0,,,61.15,Added via NSE+Screener
+,Birla Cable Ltd,Unknown,,,,,Other Building/Construction Materials,92.0,,,,Added via NSE+Screener
+,Mcleod Russel India Ltd,Unknown,,,1185.0,48.7,FMCG and Food Processing,15.0,,,48.7,Added via NSE+Screener
+,Indogulf Cropsciences Ltd,Unknown,,,592.0,227.07,Agri Chemicals and / or fertilizers,140.0,,,227.07,Added via NSE+Screener
+,Thomas Scott India Ltd,Unknown,,,144.0,57.6,Textiles and Apparel,146.0,,,57.6,Added via NSE+Screener
+,Modi Naturals Ltd,Unknown,,,338.0,18.52,Agri Chemicals and / or fertilizers,20.0,,,18.52,Added via NSE+Screener
+,Manomay Tex India Ltd,Unknown,,,697.0,141.31,Other Building/Construction Materials,74.0,,,141.31,Added via NSE+Screener
+,Vardhman Polytex Ltd,Unknown,,,,,Other Building/Construction Materials,4.0,,,,Added via NSE+Screener
+,Bella Casa Fashion & Retail Ltd,Unknown,,,349.0,49.72,Textiles and Apparel,52.0,,,49.72,Added via NSE+Screener
+,Mold-Tek Technologies Ltd,Unknown,,,146.0,19.2,Other Building/Construction Materials,48.0,,,19.2,Added via NSE+Screener
+,Zodiac Energy Ltd,Unknown,,,,,Other Building/Construction Materials,51.0,,,,Added via NSE+Screener
+,RPP Infra Projects Ltd,Unknown,,,1439.0,185.3,Other Building/Construction Materials,47.0,,,185.3,Added via NSE+Screener
+,Kavveri Defence & Wireless Technologies Ltd,Unknown,,,14.77,5.21,Other Building/Construction Materials,128.75,,,5.21,Added via NSE+Screener
+,Manaksia Ltd,Unknown,,,731.0,66.09,Other Building/Construction Materials,33.0,,,66.09,Added via NSE+Screener
+,Manaksia Steels Ltd,Unknown,,,634.0,38.21,Other Building/Construction Materials,22.0,,,38.21,Added via NSE+Screener
+,Markolines Pavement Technologies Ltd,Unknown,,,,,Other Building/Construction Materials,219.0,,,,Added via NSE+Screener
+,Nandan Denim Ltd,Unknown,,,3547.0,515.04,Other Building/Construction Materials,53.0,,,515.04,Added via NSE+Screener
+,Sheetal Cool Products Ltd,Unknown,,,321.0,45.73,FMCG and Food Processing,52.0,,,45.73,Added via NSE+Screener
+,Anjani Portland Cement Ltd,Unknown,,,373.0,22.48,Other Building/Construction Materials,22.0,,,22.48,Added via NSE+Screener
+,Mangalam Global Enterprise Ltd,Unknown,,,2092.0,240.72,Agri Chemicals and / or fertilizers,42.0,,,240.72,Added via NSE+Screener
+,MBL Infrastructure Ltd,Unknown,,,86.0,127.7,Other Building/Construction Materials,542.0,,,127.7,Added via NSE+Screener
+,Soma Textiles & Industries Ltd,Unknown,,,9.49,3.02,Other Building/Construction Materials,116.15,,,3.02,Added via NSE+Screener
+,Balgopal Commercial Ltd,Unknown,,,,,FMCG and Food Processing,0.0,,,,Added via NSE+Screener
+,Halder Venture Ltd,Unknown,,,844.0,113.3,FMCG and Food Processing,49.0,,,113.3,Added via NSE+Screener
+,Deepak Builders & Engineers India Ltd,Unknown,,,579.0,145.94,Other Building/Construction Materials,92.0,,,145.94,Added via NSE+Screener
+,Ginni Filaments Ltd,Unknown,,,374.0,60.45,Other Building/Construction Materials,59.0,,,60.45,Added via NSE+Screener
+,Kriti Nutrients Ltd,Unknown,,,,,FMCG and Food Processing,4.0,,,,Added via NSE+Screener
+,Coastal Corporation Ltd,Unknown,,,613.0,47.02,FMCG and Food Processing,28.0,,,47.02,Added via NSE+Screener
+,Mawana Sugars Ltd,Unknown,,,1446.0,31.69,FMCG and Food Processing,8.0,,,31.69,Added via NSE+Screener
+,Genus Paper & Boards Ltd,Unknown,,,849.0,107.0,Other Building/Construction Materials,46.0,,,107.0,Added via NSE+Screener
+,Varvee Global Ltd,Unknown,,,,,Other Building/Construction Materials,152.0,,,,Added via NSE+Screener
+,Exxaro Tiles Ltd,Unknown,,,303.0,115.39,Other Building/Construction Materials,139.0,,,115.39,Added via NSE+Screener
+,IL&FS Engineering & Construction Co Ltd,Unknown,,,321.0,55.41,Other Building/Construction Materials,63.0,,,55.41,Added via NSE+Screener
+,Parsvnath Developers Ltd,Unknown,,,86.0,170.82,Other Building/Construction Materials,725.0,,,170.82,Added via NSE+Screener
+,Goa Carbon Ltd,Unknown,,,508.0,66.81,Other Building/Construction Materials,48.0,,,66.81,Added via NSE+Screener
+,Global Surfaces Ltd,Unknown,,,208.0,127.65,Other Building/Construction Materials,224.0,,,127.65,Added via NSE+Screener
+,Nila Infrastructures Ltd,Unknown,,,247.0,4.74,Other Building/Construction Materials,7.0,,,4.74,Added via NSE+Screener
+,Ashima Ltd,Unknown,,,10.0,3.75,Other Building/Construction Materials,137.0,,,3.75,Added via NSE+Screener
+,Atal Realtech Ltd,Unknown,,,96.0,2.89,Other Building/Construction Materials,11.0,,,2.89,Added via NSE+Screener
+,Megastar Foods Ltd,Unknown,,,361.0,41.54,FMCG and Food Processing,42.0,,,41.54,Added via NSE+Screener
+,Nath Bio-Genes (India) Ltd,Unknown,,,265.0,88.58,Agri Chemicals and / or fertilizers,122.0,,,88.58,Added via NSE+Screener
+,Shradha Realty Ltd,Unknown,,,107.0,60.98,Other Building/Construction Materials,208.0,,,60.98,Added via NSE+Screener
+,United Nilgiri Tea Estates Company Ltd,Unknown,,,90.0,6.9,FMCG and Food Processing,28.0,,,6.9,Added via NSE+Screener
+,Globe Civil Projects Ltd,New Delhi,,,,,Other Building/Construction Materials,132.0,,,,Added via NSE+Screener
+,KCP Sugar & Industries Corporation Ltd,Unknown,,,310.0,48.41,FMCG and Food Processing,57.0,,,48.41,Added via NSE+Screener
+,Gayatri Projects Ltd,Unknown,,,450.0,877.81,Other Building/Construction Materials,712.0,,,877.81,Added via NSE+Screener
+,Jay Shree Tea & Industries Ltd,Unknown,,,850.0,62.88,FMCG and Food Processing,27.0,,,62.88,Added via NSE+Screener
+,Shankara Building Products Ltd,Unknown,,,5697.0,796.02,Other Building/Construction Materials,51.0,,,796.02,Added via NSE+Screener
+,Nova Agritech Ltd,Unknown,,,166.0,131.44,Agri Chemicals and / or fertilizers,289.0,,,131.44,Added via NSE+Screener
+,The Peria Karamalai Tea & Produce Company Ltd,Unknown,,,,,FMCG and Food Processing,10.88,,,,Added via NSE+Screener
+,Generic Engineering Construction & Projects Ltd,Unknown,,,302.0,120.8,Other Building/Construction Materials,146.0,,,120.8,Added via NSE+Screener
+,Emami Realty Ltd,Unknown,,,82.0,9.88,Other Building/Construction Materials,44.0,,,9.88,Added via NSE+Screener
+,Nagarjuna Fertilizers & Chemicals Ltd,Unknown,,,703.0,236.9,Agri Chemicals and / or fertilizers,123.0,,,236.9,Added via NSE+Screener
+,Sahyadri Industries Ltd,Unknown,,,605.0,38.12,Other Building/Construction Materials,23.0,,,38.12,Added via NSE+Screener
+,BPL Ltd,Unknown,,,78.0,23.72,Consumer Durables and Electronics,111.0,,,23.72,Added via NSE+Screener
+,Kesoram Industries Ltd,Unknown,,,259.0,32.64,Other Building/Construction Materials,46.0,,,32.64,Added via NSE+Screener
+,Univastu India Ltd,Unknown,,,171.0,7.03,Other Building/Construction Materials,15.0,,,7.03,Added via NSE+Screener
+,Ponni Sugars (Erode) Ltd,Unknown,,,359.0,30.49,FMCG and Food Processing,31.0,,,30.49,Added via NSE+Screener
+,Ravinder Heights Ltd,Unknown,,,1.41,0.01,Other Building/Construction Materials,2.59,,,0.01,Added via NSE+Screener
+,KM Sugar Mills Ltd,Unknown,,,659.0,9.03,FMCG and Food Processing,5.0,,,9.03,Added via NSE+Screener
+,Poddar Pigments Ltd,Unknown,,,368.0,64.53,"Paints, Coating and Pipes",64.0,,,64.53,Added via NSE+Screener
+,Saraswati Saree Depot Ltd,Unknown,,,,,Textiles and Apparel,46.0,,,,Added via NSE+Screener
+,Team India Guaranty Ltd,Unknown,,,3.69,,FMCG and Food Processing,,,,,Added via NSE+Screener
+,Indo National Ltd,Unknown,,,458.0,47.68,FMCG and Food Processing,38.0,,,47.68,Added via NSE+Screener
+,Nitiraj Engineers Ltd,Unknown,,,,,Consumer Durables and Electronics,51.64,,,,Added via NSE+Screener
+,Sonam Ltd,Unknown,,,104.0,9.97,Consumer Durables and Electronics,35.0,,,9.97,Added via NSE+Screener
+,T T Ltd,Unknown,,,214.0,45.15,Other Building/Construction Materials,77.0,,,45.15,Added via NSE+Screener
+,D P Wires Ltd,Unknown,,,621.0,62.95,Other Building/Construction Materials,37.0,,,62.95,Added via NSE+Screener
+,Asahi Songwon Colors Ltd,Unknown,,,390.0,96.16,"Paints, Coating and Pipes",90.0,,,96.16,Added via NSE+Screener
+,Geekay Wires Ltd,Unknown,,,458.0,77.8,Other Building/Construction Materials,62.0,,,77.8,Added via NSE+Screener
+,Vibhor Steel Tubes Ltd,Unknown,,,996.0,70.95,Other Building/Construction Materials,26.0,,,70.95,Added via NSE+Screener
+,Shree Tirupati Balajee Agro Trading Co. Ltd,Unknown,,,579.0,104.7,Agri Chemicals and / or fertilizers,66.0,,,104.7,Added via NSE+Screener
+,DCM Nouvelle Ltd,Unknown,,,1058.0,101.45,Other Building/Construction Materials,35.0,,,101.45,Added via NSE+Screener
+,Shree Ram Twistex Ltd,Unknown,,,,,Other Building/Construction Materials,46.0,,,,Added via NSE+Screener
+,Supreme Holdings & Hospitality Ltd,Unknown,,,66.23,26.09,Other Building/Construction Materials,143.78,,,26.09,Added via NSE+Screener
+,Indo US Bio-Tech Ltd,Unknown,,,104.0,15.1,Agri Chemicals and / or fertilizers,53.0,,,15.1,Added via NSE+Screener
+,Power & Instrumentation (Gujarat) Ltd,Unknown,,,,,Consumer Durables and Electronics,131.0,,,,Added via NSE+Screener
+,Kothari Sugars & Chemicals Ltd,Unknown,,,,,FMCG and Food Processing,23.0,,,,Added via NSE+Screener
+,Jinkushal Industries Ltd,Unknown,,,212.0,88.87,Other Building/Construction Materials,153.0,,,88.87,Added via NSE+Screener
+,VMS TMT Ltd,Unknown,,,,,Other Building/Construction Materials,12.0,,,,Added via NSE+Screener
+,Sikko Industries Ltd,Unknown,,,,,Agri Chemicals and / or fertilizers,190.24,,,,Added via NSE+Screener
+,Shiva Texyarn Ltd,Unknown,,,,,Other Building/Construction Materials,46.0,,,,Added via NSE+Screener
+,Cords Cable Industries Ltd,Unknown,,,795.0,206.92,Other Building/Construction Materials,95.0,,,206.92,Added via NSE+Screener
+,M K Proteins Ltd,Unknown,,,268.0,1.47,FMCG and Food Processing,2.0,,,1.47,Added via NSE+Screener
+,Veto Switchgears & Cables Ltd,Unknown,,,216.0,98.83,Other Building/Construction Materials,167.0,,,98.83,Added via NSE+Screener
+,Zodiac Clothing Company Ltd,Unknown,,,173.0,20.85,Textiles and Apparel,44.0,,,20.85,Added via NSE+Screener
+,Khadim India Ltd,Unknown,,,418.0,221.02,Textiles and Apparel,193.0,,,221.02,Added via NSE+Screener
+,Murudeshwar Ceramics Ltd,Unknown,,,202.0,40.4,Other Building/Construction Materials,73.0,,,40.4,Added via NSE+Screener
+,Mahalaxmi Rubtech Ltd,Unknown,,,92.0,14.12,Other Building/Construction Materials,56.0,,,14.12,Added via NSE+Screener
+,Modern Threads (I) Ltd,Unknown,,,,,Other Building/Construction Materials,,,,,Added via NSE+Screener
+,Rana Sugars Ltd,Unknown,,,1713.0,164.26,FMCG and Food Processing,35.0,,,164.26,Added via NSE+Screener
+,Rossell India Ltd,Unknown,,,182.0,0.0,FMCG and Food Processing,0.0,,,0.0,Added via NSE+Screener
+,Rudra Global Infra Products Ltd,Unknown,,,561.0,6.15,Other Building/Construction Materials,4.0,,,6.15,Added via NSE+Screener
+,Sumit Woods Ltd,Unknown,,,140.83,11.63,Other Building/Construction Materials,30.14,,,11.63,Added via NSE+Screener
+,Gillanders Arbuthnot & Company Ltd,Unknown,,,443.0,61.9,FMCG and Food Processing,51.0,,,61.9,Added via NSE+Screener
+,Incredible Industries Ltd,Unknown,,,753.0,43.32,Other Building/Construction Materials,21.0,,,43.32,Added via NSE+Screener
+,Sakthi Sugars Ltd,Unknown,,,929.0,15.27,FMCG and Food Processing,6.0,,,15.27,Added via NSE+Screener
+,Vipul Ltd,Unknown,,,87.0,272.2,Other Building/Construction Materials,1142.0,,,272.2,Added via NSE+Screener
+,Superhouse Ltd,Unknown,,,665.0,162.15,Textiles and Apparel,89.0,,,162.15,Added via NSE+Screener
+,Niraj Cement Structurals Ltd,Unknown,,,507.0,68.06,Other Building/Construction Materials,49.0,,,68.06,Added via NSE+Screener
+,AMJ Land Holdings Ltd,Unknown,,,22.0,0.0,Other Building/Construction Materials,0.0,,,0.0,Added via NSE+Screener
+,VIP Clothing Ltd,Unknown,,,237.0,98.7,Textiles and Apparel,152.0,,,98.7,Added via NSE+Screener
+,Bannari Amman Spinning Mills Ltd,Unknown,,,887.0,155.53,Other Building/Construction Materials,64.0,,,155.53,Added via NSE+Screener
+,Filatex Fashions Ltd,Unknown,,,,,Textiles and Apparel,308.0,,,,Added via NSE+Screener
+,Bharat Road Network Ltd,Unknown,,,274.0,0.75,Other Building/Construction Materials,1.0,,,0.75,Added via NSE+Screener
+,Sadbhav Engineering Ltd,Unknown,,,211.0,290.2,Other Building/Construction Materials,502.0,,,290.2,Added via NSE+Screener
+,Plaza Wires Ltd,Unknown,,,218.0,62.12,Other Building/Construction Materials,104.0,,,62.12,Added via NSE+Screener
+,Indian Terrain Fashions Ltd,Unknown,,,341.0,237.3,Textiles and Apparel,254.0,,,237.3,Added via NSE+Screener
+,Salona Cotspin Ltd,Unknown,,,662.0,117.89,Other Building/Construction Materials,65.0,,,117.89,Added via NSE+Screener
+,Umiya Buildcon Ltd,Unknown,,,,,Consumer Durables and Electronics,110.0,,,,Added via NSE+Screener
+,AksharChem (India) Ltd,Unknown,,,,,"Paints, Coating and Pipes",44.0,,,,Added via NSE+Screener
+,Archidply Industries Ltd,Unknown,,,,,Other Building/Construction Materials,91.0,,,,Added via NSE+Screener
+,Ishan Dyes and chemicals Ltd,Unknown,,,101.43,11.98,"Paints, Coating and Pipes",43.11,,,11.98,Added via NSE+Screener
+,Hindprakash Industries Ltd,Unknown,,,,,"Paints, Coating and Pipes",95.27,,,,Added via NSE+Screener
+,Kritika Wires Ltd,Unknown,,,745.0,36.74,Other Building/Construction Materials,18.0,,,36.74,Added via NSE+Screener
+,Lancor Holdings Ltd,Unknown,,,190.0,23.95,Other Building/Construction Materials,46.0,,,23.95,Added via NSE+Screener
+,Kamdhenu Ventures Ltd,Unknown,,,,,"Paints, Coating and Pipes",189.0,,,,Added via NSE+Screener
+,Norben Tea & Exports Ltd,Unknown,,,7.65,0.14,FMCG and Food Processing,6.68,,,0.14,Added via NSE+Screener
+,Aartech Solonics Ltd,Unknown,,,35.7,5.84,Consumer Durables and Electronics,59.71,,,5.84,Added via NSE+Screener
+,Dhunseri Tea & Industries Ltd,Unknown,,,456.0,13.74,FMCG and Food Processing,11.0,,,13.74,Added via NSE+Screener
+,BSL Ltd,Unknown,,,667.0,131.57,Other Building/Construction Materials,72.0,,,131.57,Added via NSE+Screener
+,Prajay Engineers Syndicate Ltd,Unknown,,,38.0,63.72,Other Building/Construction Materials,612.0,,,63.72,Added via NSE+Screener
+,Airo Lam Ltd,Unknown,,,211.0,58.39,Other Building/Construction Materials,101.0,,,58.39,Added via NSE+Screener
+,Udayshivakumar Infra Ltd,Unknown,,,289.0,26.92,Other Building/Construction Materials,34.0,,,26.92,Added via NSE+Screener
+,Western India Plywoods Ltd,Unknown,,,115.0,23.63,Other Building/Construction Materials,75.0,,,23.63,Added via NSE+Screener
+,Tarmat Ltd,Unknown,,,101.0,21.58,Other Building/Construction Materials,78.0,,,21.58,Added via NSE+Screener
+,Texmo Pipes & Products Ltd,Unknown,,,389.0,79.93,"Paints, Coating and Pipes",75.0,,,79.93,Added via NSE+Screener
+,Weizmann Ltd,Unknown,,,117.0,12.18,Other Building/Construction Materials,38.0,,,12.18,Added via NSE+Screener
+,HEC Infra Projects Ltd,Unknown,,,112.0,47.56,Other Building/Construction Materials,155.0,,,47.56,Added via NSE+Screener
+,Shah Alloys Ltd,Unknown,,,267.0,1.46,Other Building/Construction Materials,2.0,,,1.46,Added via NSE+Screener
+,Smartlink Holdings Ltd,Unknown,,,215.0,56.55,Consumer Durables and Electronics,96.0,,,56.55,Added via NSE+Screener
+,Lagnam Spintex Ltd,Unknown,,,606.0,68.07,Other Building/Construction Materials,41.0,,,68.07,Added via NSE+Screener
+,Ganges Securities Ltd,Unknown,,,7.87,0.0,FMCG and Food Processing,0.0,,,0.0,Added via NSE+Screener
+,Indian Card Clothing Company Ltd,Unknown,,,42.0,8.63,Other Building/Construction Materials,75.0,,,8.63,Added via NSE+Screener
+,Globe Enterprises (India) Ltd,Unknown,,,,,Other Building/Construction Materials,107.0,,,,Added via NSE+Screener
+,Vishwaraj Sugar Industries Ltd,Unknown,,,452.0,29.72,FMCG and Food Processing,24.0,,,29.72,Added via NSE+Screener
+,Bhandari Hosiery Exports Ltd,Unknown,,,278.0,88.35,Other Building/Construction Materials,116.0,,,88.35,Added via NSE+Screener
+,Sadbhav Infrastructure Projects Ltd,Unknown,,,0.0,0.0,Other Building/Construction Materials,617.0,,,0.0,Added via NSE+Screener
+,Lorenzini Apparels Ltd,Unknown,,,63.42,11.45,Textiles and Apparel,65.9,,,11.45,Added via NSE+Screener
+,Navkar Urbanstructure Ltd,Unknown,,,16.06,25.39,Other Building/Construction Materials,577.05,,,25.39,Added via NSE+Screener
+,Aarnav Fashions Ltd,Unknown,,,381.0,99.16,Other Building/Construction Materials,95.0,,,99.16,Added via NSE+Screener
+,Shreeoswal Seeds & Chemicals Ltd,Unknown,,,246.0,12.81,Agri Chemicals and / or fertilizers,19.0,,,12.81,Added via NSE+Screener
+,Surana Solar Ltd,Unknown,,,38.8,0.49,Consumer Durables and Electronics,4.61,,,0.49,Added via NSE+Screener
+,The Grob Tea Co Ltd,Unknown,,,119.0,2.93,FMCG and Food Processing,9.0,,,2.93,Added via NSE+Screener
+,Housing Development & Infrastructure Ltd,Unknown,,,718.0,424.9,Other Building/Construction Materials,216.0,,,424.9,Added via NSE+Screener
+,Fiberweb (India) Ltd,Unknown,,,95.4,41.43,Other Building/Construction Materials,158.51,,,41.43,Added via NSE+Screener
+,Zenith Exports Ltd,Unknown,,,72.1,17.6,Textiles and Apparel,89.1,,,17.6,Added via NSE+Screener
+,Lovable Lingerie Ltd,Unknown,,,42.19,21.64,Textiles and Apparel,187.21,,,21.64,Added via NSE+Screener
+,SEL Manufacturing Company Ltd,Unknown,,,33.0,0.9,Other Building/Construction Materials,10.0,,,0.9,Added via NSE+Screener
+,Lambodhara Textiles Ltd,Unknown,,,232.0,10.17,Other Building/Construction Materials,16.0,,,10.17,Added via NSE+Screener
+,RKEC Projects Ltd,Unknown,,,422.0,168.8,Other Building/Construction Materials,146.0,,,168.8,Added via NSE+Screener
+,Suryalakshmi Cotton Mills Ltd,Unknown,,,,,Other Building/Construction Materials,54.0,,,,Added via NSE+Screener
+,Art Nirman Ltd,Unknown,,,27.39,2.49,Other Building/Construction Materials,33.18,,,2.49,Added via NSE+Screener
+,Neueon Corporation Ltd,Unknown,,,5.0,309.47,Consumer Durables and Electronics,22591.0,,,309.47,Added via NSE+Screener
+,Sarthak Metals Ltd,Unknown,,,178.0,42.43,Other Building/Construction Materials,87.0,,,42.43,Added via NSE+Screener
+,Palash Securities Ltd,Unknown,,,48.88,3.28,FMCG and Food Processing,24.49,,,3.28,Added via NSE+Screener
+,Rajshree Sugars & Chemicals Ltd,Unknown,,,642.0,24.62,FMCG and Food Processing,14.0,,,24.62,Added via NSE+Screener
+,Kohinoor Foods Ltd,Unknown,,,86.0,17.67,Agri Chemicals and / or fertilizers,75.0,,,17.67,Added via NSE+Screener
+,Digjam Ltd,Unknown,,,17.57,6.04,Other Building/Construction Materials,125.48,,,6.04,Added via NSE+Screener
+,Gensol Engineering Ltd,Unknown,,,904.0,215.47,Consumer Durables and Electronics,87.0,,,215.47,Added via NSE+Screener
+,Reliance Chemotex Industries Ltd,Unknown,,,357.0,17.61,Other Building/Construction Materials,18.0,,,17.61,Added via NSE+Screener
+,Barak Valley Cements Ltd,Unknown,,,208.0,18.81,Other Building/Construction Materials,33.0,,,18.81,Added via NSE+Screener
+,Kakatiya Cement Sugar & Industries Ltd,Unknown,,,89.0,17.8,Other Building/Construction Materials,73.0,,,17.8,Added via NSE+Screener
+,Hisar Metal Industries Ltd,Unknown,,,245.0,55.04,Other Building/Construction Materials,82.0,,,55.04,Added via NSE+Screener
+,SPL Industries Ltd,Unknown,,,,,Other Building/Construction Materials,60.0,,,,Added via NSE+Screener
+,Dharan Infra-EPC Ltd,Unknown,,,-21.0,82.85,Other Building/Construction Materials,-1440.0,,,82.85,Added via NSE+Screener
+,JHS Svendgaard Laboratories Ltd,Unknown,,,92.0,13.06,FMCG and Food Processing,51.81,,,13.06,Added via NSE+Screener
+,Zenith Steel Pipes & Industries Ltd,Unknown,,,119.09,56.56,"Paints, Coating and Pipes",173.35,,,56.56,Added via NSE+Screener
+,Prakash Steelage Ltd,Unknown,,,76.57,11.65,Other Building/Construction Materials,55.53,,,11.65,Added via NSE+Screener
+,Pioneer Embroideries Ltd,Unknown,,,375.0,27.74,Other Building/Construction Materials,27.0,,,27.74,Added via NSE+Screener
+,Lexus Granito (India) Ltd,Unknown,,,75.21,8.35,Other Building/Construction Materials,40.52,,,8.35,Added via NSE+Screener
+,IL&FS Transportation Networks Ltd,Unknown,,,,,Other Building/Construction Materials,55.0,,,,Added via NSE+Screener
+,Aksh Optifibre Ltd,Unknown,,,130.0,21.37,Consumer Durables and Electronics,60.0,,,21.37,Added via NSE+Screener
+,Raj Oil Mills Ltd,Unknown,,,114.0,9.06,FMCG and Food Processing,29.0,,,9.06,Added via NSE+Screener
+,KSR Footwear Ltd,Unknown,,,,,Textiles and Apparel,,,,,Added via NSE+Screener
+,Agro Phos India Ltd,Unknown,,,120.0,22.36,Agri Chemicals and / or fertilizers,68.0,,,22.36,Added via NSE+Screener
+,Semac Construction Ltd,Unknown,,,155.0,37.79,Other Building/Construction Materials,89.0,,,37.79,Added via NSE+Screener
+,Nagreeka Exports Ltd,Unknown,,,529.0,15.94,Other Building/Construction Materials,11.0,,,15.94,Added via NSE+Screener
+,Narmada Macplast Drip Irrigation Systems Ltd,Unknown,,,6.98,2.9,Agri Chemicals and / or fertilizers,151.65,,,2.9,Added via NSE+Screener
+,Agri-Tech (India) Ltd,Unknown,,,,,Agri Chemicals and / or fertilizers,0.0,,,,Added via NSE+Screener
+,Nandani Creation Ltd,Unknown,,,70.0,35.67,Textiles and Apparel,186.0,,,35.67,Added via NSE+Screener
+,Teamo Productions HQ Ltd,Unknown,,,,,Other Building/Construction Materials,438.0,,,,Added via NSE+Screener
+,Ansal Properties & Infrastructure Ltd,Unknown,,,493.0,270.14,Other Building/Construction Materials,200.0,,,270.14,Added via NSE+Screener
+,Damodar Industries Ltd,Unknown,,,421.0,48.44,Other Building/Construction Materials,42.0,,,48.44,Added via NSE+Screener
+,AKI India Ltd,Unknown,,,80.96,28.59,Textiles and Apparel,128.9,,,28.59,Added via NSE+Screener
+,Vinny Overseas Ltd,Unknown,,,121.0,18.56,Textiles and Apparel,56.0,,,18.56,Added via NSE+Screener
+,Ahlada Engineers Ltd,Unknown,,,132.0,73.78,Consumer Durables and Electronics,204.0,,,73.78,Added via NSE+Screener
+,Cerebra Integrated Technologies Ltd,Unknown,,,36.0,74.86,Consumer Durables and Electronics,759.0,,,74.86,Added via NSE+Screener
+,Banka Bioloo Ltd,Unknown,,,54.18,27.8,Other Building/Construction Materials,187.28,,,27.8,Added via NSE+Screener
+,Golden Tobacco Ltd,Unknown,,,41.79,0.3,Other Building/Construction Materials,2.62,,,0.3,Added via NSE+Screener
+,Shiva Mills Ltd,Unknown,,,169.0,26.85,Other Building/Construction Materials,58.0,,,26.85,Added via NSE+Screener
+,Prudential Sugar Corporation Ltd,Unknown,,,92.41,0.13,FMCG and Food Processing,0.51,,,0.13,Added via NSE+Screener
+,N K Industries Ltd,Unknown,,,16.11,23.29,FMCG and Food Processing,527.68,,,23.29,Added via NSE+Screener
+,Priti International Ltd,Unknown,,,77.06,6.5,Consumer Durables and Electronics,30.79,,,6.5,Added via NSE+Screener
+,Tarapur Transformers Ltd,Unknown,,,0.0,0.0,Consumer Durables and Electronics,0.0,,,0.0,Added via NSE+Screener
+,Khaitan (India) Ltd,Unknown,,,,,Consumer Durables and Electronics,,,,,Added via NSE+Screener
+,Ravikumar Distilleries Ltd,Unknown,,,38.29,30.41,FMCG and Food Processing,289.88,,,30.41,Added via NSE+Screener
+,Dangee Dums Ltd,Unknown,,,,,FMCG and Food Processing,14.13,,,,Added via NSE+Screener
+,Celebrity Fashions Ltd,Unknown,,,165.0,52.89,Textiles and Apparel,117.0,,,52.89,Added via NSE+Screener
+,Bang Overseas Ltd,Unknown,,,189.0,30.03,Textiles and Apparel,58.0,,,30.03,Added via NSE+Screener
+,Nakoda Group of Industries Ltd,Unknown,,,46.25,5.27,FMCG and Food Processing,41.59,,,5.27,Added via NSE+Screener
+,Oriental Trimex Ltd,Unknown,,,21.02,35.84,Other Building/Construction Materials,622.34,,,35.84,Added via NSE+Screener
+,Shekhawati Industries Ltd,Unknown,,,60.64,0.55,Other Building/Construction Materials,3.31,,,0.55,Added via NSE+Screener
+,Ambica Agarbathies Aroma & Industries Ltd,Unknown,,,,,FMCG and Food Processing,28.17,,,,Added via NSE+Screener
+,Mukand Engineers Ltd(Merged),Unknown,,,,,Other Building/Construction Materials,491.0,,,,Added via NSE+Screener
+,Archidply Decor Ltd,Unknown,,,51.96,18.07,Other Building/Construction Materials,126.94,,,18.07,Added via NSE+Screener
+,Auri Grow India Ltd,Unknown,,,175.55,88.13,Other Building/Construction Materials,183.24,,,88.13,Added via NSE+Screener
+,Grand Foundry Ltd,Unknown,,,,,Other Building/Construction Materials,80.0,,,,Added via NSE+Screener
+,Tamil Nadu Telecommunications Ltd,Unknown,,,0.0,0.0,Consumer Durables and Electronics,1697.0,,,0.0,Added via NSE+Screener
+,Bohra Industries Ltd,Unknown,,,0.0,0.0,Agri Chemicals and / or fertilizers,-1242.97,,,0.0,Added via NSE+Screener
